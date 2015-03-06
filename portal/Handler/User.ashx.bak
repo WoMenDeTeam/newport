@@ -1,0 +1,150 @@
+﻿<%@ WebHandler Language="C#" Class="User" %>
+
+using System;
+using System.Web;
+using System.Web.SessionState;
+using System.Text;
+using Demo.Util;
+using Demo.BLL;
+using Demo.DAL;
+using System.Configuration;
+
+public class User : IHttpHandler, IRequiresSessionState
+{
+
+    private static string SessionKey = ConfigurationManager.AppSettings["SessionKey"].ToString();
+    public void ProcessRequest(HttpContext context)
+    {
+        string action = context.Request.Form["action"];
+        if (!string.IsNullOrEmpty(action))
+        {
+            switch (action)
+            {
+                case "user_login":
+                    context.Response.Write(UserLogin(context));
+                    break;
+                case "check_user":
+                    context.Response.Write(CheckUser(context));
+                    break;
+                case "log_visitor":
+                    context.Response.Write(RecordVisitor(context));
+                    break;
+                default:
+                    break;
+            }
+        }
+    }
+
+    private string CheckUser(HttpContext context)
+    {          
+        StringBuilder jsonStr = new StringBuilder();
+        string userName = GetUserName();
+        if (!string.IsNullOrEmpty(userName))
+        {
+            jsonStr.Append("{\"SuccessCode\":1,\"userName\":\"" + userName + "\"}");
+        }
+        else
+        {
+            string loginUrl = ConfigurationManager.AppSettings["CASPostHttp"] + "login?service=" + ConfigurationManager.AppSettings["CASService"];
+            jsonStr.Append("{\"SuccessCode\":0,\"path\":\"").Append(EncodeByEscape.GetEscapeStr(loginUrl)).Append("\"}");
+        }
+        return jsonStr.ToString();
+    }
+
+    private string GetUserName()
+    {
+        LoginUser user = GetUser();
+        if (user != null)
+        {
+            return user.UsersEntity.USERNAME;
+        }
+        else
+        {
+            return null;
+        }
+    }
+
+    private LoginUser GetUser()
+    {
+        object sessKey = HttpContext.Current.Session[SessionKey];
+        if (sessKey == null)
+        {
+            return null;
+        }
+        else
+        {
+            return (LoginUser)sessKey;
+        }
+    }
+
+    private string UserLogin(HttpContext context)
+    {
+        string userName = context.Request.Form["User_Name"];
+        string passWord = context.Request.Form["Pass_Word"];
+        string codeStr = context.Request.Form["Code_Str"];
+        StringBuilder jsonStr = new StringBuilder();
+        string code = context.Session["CheckCode"].ToString();
+        if (codeStr.ToLower() == code.ToLower())
+        {
+            if (!string.IsNullOrEmpty(userName) && !string.IsNullOrEmpty(passWord))
+            {
+                UsersEntity user = UsersFacade.GetUser(userName, passWord);
+                if (user != null)
+                {
+                    LoginUser loginuser = new LoginUser();
+                    loginuser.UsersEntity = user;
+                    loginuser.RoleIDStr = UsersInRolesFacade.GetUserRoleIdList(user.USERID.Value);
+                    if (HttpContext.Current.Session[SessionKey] == null)
+                    {
+                        HttpContext.Current.Session.Add(SessionKey, loginuser);
+                    }
+                    else
+                    {
+                        HttpContext.Current.Session[SessionKey] = loginuser;
+                    }                    
+                    jsonStr.Append("{\"SuccessCode\":1}");
+                }
+                else
+                {
+                    jsonStr.Append("{\"SuccessCode\":0}");
+                }
+            }
+            else
+            {
+                jsonStr.Append("{\"SuccessCode\":0}");
+            }
+        }
+        else
+        {
+            jsonStr.Append("{\"SuccessCode\":\"-1\"}");
+        }
+        return jsonStr.ToString();
+    }
+
+    private string RecordVisitor(HttpContext context)
+    {
+        try
+        {
+            //string pageUrl = context.Request.Form["page_url"].ToString();
+            //string visitorAddr = context.Request.UserHostAddress;
+            //string time_str = DateTime.Now.ToString("yyyy-MM-dd MM:hh:ss");
+            //string logStr = visitorAddr + "在" + time_str + "访问了页面" + pageUrl;
+            //ILog logger = LogManager.GetLogger("Visitor");
+            //logger.Error(logStr);
+            return "{\"SuccessCode\":1}";
+        }
+        catch (Exception e)
+        {
+            return "{\"Error\":1,\"msg\":\"" + e.ToString() + "\"}";
+        }
+    }
+
+    public bool IsReusable
+    {
+        get
+        {
+            return false;
+        }
+    }
+
+}

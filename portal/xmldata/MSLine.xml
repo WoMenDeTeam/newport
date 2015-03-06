@@ -1,0 +1,38 @@
+﻿<graph caption='趋势图' hovercapbg='FFECAA' hovercapborder='F47E00' formatNumberScale='0' decimalPrecision='2' showvalues='0' numdivlines='3' numVdivlines='0'  rotateNames='1' baseFontSize='12'  showNames='1' anchorRadius='2' formatNumber='0' numberSuffix='%c6%aa'>
+<categories>
+<category name='2006-06-08' />
+<category name='2006-07-08' />
+<category name='2006-08-08' />
+<category name='2006-09-08' />
+<category name='2006-10-08' />
+<category name='2006-11-08' />
+<category name='2006-12-08' />
+</categories>
+<dataset seriesName='新闻' name='dsadsa' color='1D8BD1' anchorBorderColor='1D8BD1' anchorBgColor='1D8BD1'>
+	<set value='1327' name='ddd' />
+	<set value='1826' name='ddd' />
+	<set value='1699' name='ddd' />
+	<set value='1511' name='ddd' />
+	<set value='1904' name='ddd' />
+	<set value='1957' name='ddd' />
+	<set value='1296' name='ddd' />	
+</dataset>
+<dataset seriesName='博客' color='F1683C' anchorBorderColor='F1683C' anchorBgColor='F1683C'>
+	<set value='2042' />
+	<set value='3210' />
+	<set value='2994' />
+	<set value='3115' />
+	<set value='2844' />
+	<set value='3576' />
+	<set value='1862' />	
+</dataset>
+<dataset seriesName='论坛' color='2AD62A' anchorBorderColor='2AD62A' anchorBgColor='2AD62A'>
+	<set value='850' />
+	<set value='1010' />
+	<set value='1116' />
+	<set value='1234' />
+	<set value='1210' />
+	<set value='1054' />
+	<set value='802' />	
+</dataset>
+</graph>

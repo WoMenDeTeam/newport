@@ -1,0 +1,264 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>专题查看</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <!--[if IE]><script language="javascript" type="text/javascript" src="js/excanvas.min.js"></script><![endif]-->
+
+    <script type="text/javascript" src="js/jquery.js"></script>
+
+    <script type="text/javascript" src="js/jquery.query.js"></script>
+    <script type="text/javascript" src="js/My97DatePicker/WdatePicker.js"></script>    
+    <script type="text/javascript" src="js/FusionCharts.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+    <script type="text/javascript" src="js/Pager.js"></script>
+    <script type="text/javascript" src="js/trans.js" charset="gb2312"></script>
+
+    <script type="text/javascript" src="js/special.js"></script>
+
+</head>
+<body>
+    <!-------------------------　顶　部　开　始　------------------------->
+    <div class="header">
+        <div class="wraper">
+            <!----------//　Logo 开始　//---------->
+            <div class="logo">
+                <a href="index.html" title="首页"></a>
+            </div>
+            <!----------//　Logo 结束　//---------->
+            <!----------//　用户开始　//---------->
+            <div class="user">
+                <a class="btn_logout" href="Handler/LoginOut.ashx" target="_self">退出</a> <span class="user_info">您好，<b class="color_2"></b>
+                    | 今天是<code class="color_1"></code>年<code class="color_1"></code>月<code class="color_1"></code>日<code
+                        class="color_1"></code></span>
+            </div>
+            <!----------//　用户结束　//---------->
+            <div class="clear">
+            </div>
+            <!----------//　导航开始　//---------->
+            <div class="nav">
+                <ul>
+                    <li><a href="javascript:void(null);" title="">
+                        <img src="img/nav_1.gif" alt="" /></a>
+                        <div class="subnav" id="subnav_1">
+                            <ul>
+                                <!--- {数据绑定}开始 --->
+                                <li><a href="about.html" target="_blank" title="">煤矿</a></li>
+                                <li><a href="about.html" target="_blank" title="">非煤矿山</a></li>
+                                <li><a href="about.html" target="_blank" title="">危险化学品</a></li>
+                                <li><a href="about.html" target="_blank" title="">烟花爆竹</a></li>
+                                <li><a href="about.html" target="_blank" title="">道路交通</a></li>
+                                <!--- {数据绑定}结束 --->
+                                <li><a class="btn_more" href="about.html" target="_blank" title="">更多</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="javascript:void(null);" title="">
+                        <img src="img/nav_2.gif" alt="" /></a>
+                        <div class="subnav" id="subnav_2">
+                            <ul>
+                                <!--- {数据绑定}开始 --->
+                                <li><a href="about.html" target="_blank" title="">山西</a></li>
+                                <li><a href="about.html" target="_blank" title="">湖南</a></li>
+                                <li><a href="about.html" target="_blank" title="">江西</a></li>
+                                <li><a href="about.html" target="_blank" title="">广东</a></li>
+                                <li><a href="about.html" target="_blank" title="">四川</a></li>
+                                <!--- {数据绑定}结束 --->
+                                <li><a class="btn_more" href="about.html" target="_blank" title="">更多</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="javascript:void(null);" title="">
+                        <img src="img/nav_3.gif" alt="" /></a>
+                        <div class="subnav" id="subnav_3">
+                            <ul>
+                                <!--- {数据绑定}开始 --->
+                                <li><a href="about.html" target="_blank" title="">舆情日报</a></li>
+                                <li><a href="about.html" target="_blank" title="">舆情周报</a></li>
+                                <li><a href="about.html" target="_blank" title="">舆情趋势图</a></li>
+                                <!--- {数据绑定}结束 --->
+                                <li><a class="btn_more" href="about.html" target="_blank" title="">更多</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="javascript:void(null);" title="">
+                        <img src="img/nav_4.gif" alt="" /></a>
+                        <div class="subnav" id="subnav_4">
+                            <ul>
+                                <!--- {数据绑定}开始 --->
+                                <li><a href="about.html" target="_blank" title="">舆情专题</a></li>
+                                <li><a href="about.html" target="_blank" title="">舆情预警信息</a></li>
+                                <li><a href="about.html" target="_blank" title="">热点关键字排行</a></li>
+                                <!--- {数据绑定}结束 --->
+                                <li><a class="btn_more" href="about.html" target="_blank" title="">更多</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a id="subnav_index" href="index.html" target="_blank" title="返回首页">
+                        <img src="img/nav_5.gif" alt="" /></a> </li>
+                </ul>
+                <div class="clear">
+                </div>
+            </div>
+            <!----------//　导航结束　//---------->
+            <!----------//　搜索开始　//---------->
+            <div class="search">
+                <span class="search_line_2"></span><span class="search_line_1"></span>
+                <!--- 简单搜索开始 --->
+                <ul class="form_list">
+                    <li><span class="name"><b class="color_2">简单搜索：</b></span> <span class="input">
+                        <input id="keyword" style="width: 573px;" type="text" value="" /></span><a class="btn_more"
+                            href="javascript:void(null);" id="look_hot_keyword"><b>热点关键词</b></a>  <a class="btn_super" href="search.html" target="_blank"><b>
+                                高级搜索</b></a> <a class="btn_search" id="btn_search" href="javascript:void(null);">
+                        </a></li>
+                </ul>
+                <!--- 简单搜索结束 --->
+                <!--- 高级搜索开始 --->
+                <!--<ul class="form_list" style="display: none;">
+                    <li><span class="name"><b class="color_2">高级搜索：</b></span> <span class="input">
+                        <input onblur="if(this.value=='') {this.value='输入您关注的内容关键字...';this.className='color_6';}"
+                            onfocus="if(this.value=='输入您关注的内容关键字...') {this.value='';}" value="输入您关注的内容关键字..."
+                            style="width: 636px;" type="text" /></span> <span class="name"><b class="color_2">类
+                                型：</b></span> <span class="input">
+                                    <select>
+                                        <option>全部</option>
+                                        <option>新闻</option>
+                                        <option>论坛</option>
+                                        <option>博客</option>
+                                    </select></span> <a class="btn_more" href="#"><b>简单搜索</b></a> </li>
+                    <li><span class="name"><b class="color_2">搜索时间：</b></span> <span class="input">
+                        <input style="width: 100px;" type="text" /></span> <span class="name">- </span><span
+                            class="input">
+                            <input style="width: 100px;" type="text" /></span> <span class="name"><b class="color_2">
+                                搜索来源：</b></span> <span class="input">
+                                    <input style="width: 320px;" type="text" /></span> <span class="name"><b class="color_2">
+                                        相关度：</b></span> <span class="input">
+                                            <select>
+                                                <option>90%</option>
+                                                <option>60%</option>
+                                                <option>40%</option>
+                                                <option>20%</option>
+                                            </select></span> <a class="btn_search" href="search.html" target="_blank">
+                        </a></li>
+                </ul>-->
+                <!--- 高级搜索结束 --->
+                <div class="clear">
+                </div>
+                <span class="search_line_1"></span><span class="search_line_2"></span>
+            </div>
+            <!----------//　搜索结束　//---------->
+        </div>
+    </div>
+    <!-------------------------　顶　部　结　束　------------------------->
+    <div class="main">
+        <div class="wraper">
+            <!----------//　左侧菜单开始　//---------->
+            <!--<div class="menu left" style="height: 1600px;">
+                <a class="mainmenu" href="#">全部舆情专题</a>                
+                <ul id="category_menu">
+                </ul>                
+            </div>-->
+            <div class="content list">
+                <div class="title">
+                    <a class="color_7" href="index.html">首页</a>&gt;<a class="color_7" href="ylzt.html">全部专题</a>&gt;<b
+                        id="title_cue"></b>
+
+<ul class="form_list">
+            	     <li>
+            	        <input type="text" id="base_start_time" style="display:none;" />
+                        <span class="input"><input type="text" id="start_time" onfocus="WdatePicker({minDate:'#F{$dp.$D(\'base_start_time\');}',isShowClear:false,readOnly:true,dateFmt:'yyyy-MM-dd'})" /></span>
+                        <span class="name">&nbsp;-&nbsp;</span>
+                        <span class="input"><input type="text" id="end_time" onfocus="WdatePicker({minDate:'#F{$dp.$D(\'base_start_time\');}',isShowClear:true,readOnly:true,dateFmt:'yyyy-MM-dd'})"  /></span>  
+                        <span class="input"><input type="button" id="btn_look_result" value="查看" /></span>
+            	      </li>
+        	  </ul>
+                </div>
+                <ul class="order_tab" id="result_type">
+                    <li class="tab_on" pid="all" id="tab_all">全部</li>
+                    <li class="tab_off" pid="MATCH{news}:C1" id="tab_news">相关新闻</li>
+                    <li class="tab_off" pid="MATCH{bbs}:C1" id="tab_BBS">相关论坛</li>
+                    <li class="tab_off" pid="MATCH{blog}:C1" id="tab_blog">相关博客</li>
+                    <!--<li class="tab_off"></li>-->
+                </ul>
+                <ul class="set_tab" id="sort_tab">                    
+                    <li class="id">排列方式：</li>
+                    <li class="tab_off" pid="Date" id="sort_date">按时间<b>↓</b></li>
+                    <li class="tab_on" pid="Relevance" id="sort_Relevance">按相关度<b>↓</b></li>
+                </ul>
+                <div class="clear">
+                </div>
+                <div id="SearchResult">
+                    
+                </div>
+                <div class="clear">
+                </div>
+                <div class="page" id="PagerList">
+                   
+                </div>
+            </div>
+            <!----------//　分析图表开始　//---------->
+            <div id="trend_data_pic" class="content skin_2">
+                <h1>
+                    <b class="color_1">舆情趋势图</b><!--<a class="btn_select" href="#">舆情趋势图</a>--></h1>
+                <!--- 图形开始 --->
+                <div style="text-align:left; padding-top:5px; color:gray;">信息量/篇</div>
+                <div class="map" id="placeholder" style="width: 950px; height: 300px; position: relative;
+                    clear: both; margin-left: 5px; font-size: 12px;">
+                    图片正在加载中......
+                </div>
+                <!--- 图形结束 --->
+                <!--- 图形开始 --->
+                <div class="map" id="overview" style="margin-left: 25px; margin-top: 4px; width: 920px;
+                    height: 100px; overflow: hidden; font-size: 12px;">
+                    图片正在加载中......
+                </div>
+                <!--- 图形结束 --->
+            </div>
+            <!----------//　分析图表结束　//---------->
+            <!----------//　分析图表开始　//---------->
+            <div id="trans_data_pic" class="content skin_2">
+                <h1>
+                    <b class="color_1">媒体传播链</b><!--<a class="btn_select" href="#">媒体传播链</a>--></h1>
+                <!--- 图形开始 --->
+                <div class="map" id="trans_route">
+                    <div id="transcs" style="margin: 0px auto; width: 820px; position: relative; clear: both;
+                        background: url(img/link_bg.gif) repeat-x left 56px;">
+                    </div>
+                    <!--- 图形结束 --->
+                </div>
+                <!----------//　分析图表结束　//---------->
+                <div class="clear">
+                </div>
+                <!--<div style="width: 725px; height: 300px; position: relative; clear: both; margin-left: 5px;
+                font-size: 12px;" id="placeholder">
+                图片正在加载中......</div>
+            <div id="overview" style="margin-left: 25px; margin-top: 20px; width: 700px; height: 100px;
+                overflow: hidden; font-size: 12px;">
+                图片正在加载中......</div>
+            <div id="trans_route" class="right-table">
+                <div id="transcs" style="margin: 0px auto; width: 680px; position: relative; clear: both;
+                    background: url(img/link_bg.gif) repeat-x left 56px;">
+                </div>
+            </div>-->
+            </div>
+            <!----------//　分析图表结束　//---------->
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <!-------------------------　底　部　开　始　------------------------->
+    <div class="footer">
+        <div class="wraper">
+            <!----------//　版权信息开始　//---------->
+            <div class="copyright" id="footer_info">
+                
+            </div>
+            <!----------//　版权信息结束　//---------->
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <!-------------------------　底　部　结　束　------------------------->
+</body>
+</html>

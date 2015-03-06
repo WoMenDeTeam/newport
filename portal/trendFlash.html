@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Flash</title>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/FusionCharts.js"></script>
+    <script type="text/javascript" src="js/Common.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            TrendFlash.Init();
+        });
+        var _trendflash = new Object;
+        var TrendFlash = _trendflash.property = {
+            Init: function() {
+                var flash_url = "Chart/FCF_MSLine.swf";
+                var victor_id = "case_compare";
+                //var data_url = "Handler/categorystatistic.ashx?category_id=305126825810827885";
+                var data_url = "xmldata/MSLine.xml";
+                var width = 600;
+                var height = 500;
+                FlashChart.InsertFusionChartsByDataUrl(flash_url, victor_id, data_url, width, height);
+            }
+        }
+    </script>
+</head>
+<body>
+<div id="case_compare"></div>
+<div id="back_msg"></div>
+</body>
+</html>

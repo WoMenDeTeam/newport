@@ -1,0 +1,15 @@
+E:\工作\国科智信\newport\Demo.Util\bin\Release\Demo.Util.dll
+E:\工作\国科智信\newport\Demo.Util\bin\Release\Demo.Util.pdb
+E:\工作\国科智信\newport\Demo.Util\obj\Release\ResolveAssemblyReference.cache
+E:\工作\国科智信\newport\Demo.Util\obj\Release\Demo.Util.dll
+E:\工作\国科智信\newport\Demo.Util\obj\Release\Demo.Util.pdb
+C:\国科智信\newport\Demo.Util\bin\Release\Demo.Util.dll
+C:\国科智信\newport\Demo.Util\bin\Release\Demo.Util.pdb
+C:\国科智信\newport\Demo.Util\obj\Release\Demo.Util.csproj.ResolveComReference.cache
+C:\国科智信\newport\Demo.Util\obj\Release\Demo.Util.dll
+C:\国科智信\newport\Demo.Util\obj\Release\Demo.Util.pdb
+D:\gooko\newport\Demo.Util\bin\Release\Demo.Util.dll
+D:\gooko\newport\Demo.Util\bin\Release\Demo.Util.pdb
+D:\gooko\newport\Demo.Util\obj\Release\Demo.Util.csproj.ResolveComReference.cache
+D:\gooko\newport\Demo.Util\obj\Release\Demo.Util.dll
+D:\gooko\newport\Demo.Util\obj\Release\Demo.Util.pdb

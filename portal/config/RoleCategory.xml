@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <list roleid="25">
+    <category id="127638024140890829">煤矿</category>        
+  </list>
+  <list roleid="26">
+    <category id="712450026755702975">非煤矿山</category>
+  </list>
+  <list roleid="27">
+    <category id="826794518116405807">建筑施工</category>
+    <category id="349178641774139909">火灾</category>
+    <category id="491156645605734583">道路交通</category>
+    <category id="598673489507018112">水上铁路民航</category>
+    <category id="232481888633372364">农业机械</category>
+    <category id="486398302735782733">渔业船舶</category>      
+  </list>
+  <list roleid="28">
+    <category id="811338021728818488">危险化学品</category>
+    <category id="596660260984215793">烟花爆竹</category>
+  </list>
+  <list roleid="29">
+    <category id="651901635960829643">工商贸其他</category>
+  </list>
+  <list roleid="65">
+    <category id="251555836710663526">应急管理</category>
+  </list>
+  <list roleid="66">
+    <category id="182646886323232998">职业健康</category>
+  </list>
+</root>

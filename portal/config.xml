@@ -1,0 +1,11 @@
+﻿<root>
+  <path id="path" ><![CDATA[http://123.103.15.153:8889/]]></path>
+  <stories id="stories" color="0x2c6799" ></stories><!-- 文章-->
+  <companies id="companies" color="0x968423" ></companies><!-- 机构-->
+  <topics id="topics" color="0x850099" ></topics><!-- 类别-->
+  <people id="people" color="0x336600" ></people><!--人物-->
+  <dropdownmenu id="dropdownmenu" color="0xFFFFEF" speedToAppear="10" speedToDisappear="100" colortext="000099"></dropdownmenu>
+  <widthFade id="widthFade" width="20"></widthFade>
+  <filemap id="filemap" ><![CDATA[Handler/SuggestForXml.ashx]]></filemap>
+</root>
+

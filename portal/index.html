@@ -1,0 +1,401 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>网络舆情</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <!--<script src="js/jquery-1.8.1.min.js" type="text/javascript"></script>-->
+    <script src="js/divMove.js" type="text/javascript"></script>
+    <script src="jwplayer/jwplayer.js" type="text/javascript"></script>
+    <script type="text/javascript" src="js/jquery.tagcloud.js"></script>
+    <script type="text/javascript" src="js/hcmarquee.js"></script>
+    <script type="text/javascript" src="js/inputcue.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+    <script type="text/javascript" src="js/Pager.js"></script>
+    <script type="text/javascript">
+        jwplayer.key = "CwxP8rWmIY5Zsh1Se+60CjBdXEmtiAUMQlakPA==";
+    </script>
+    <script type="text/javascript" src="js/newindex.js"></script>
+</head>
+<body>
+    <!-------------------------　顶　部　开　始　------------------------->
+    <div class="header">
+        <div class="wraper">
+            <!----------//　Logo 开始　//---------->
+            <div class="logo">
+                <a href="index.html" title="首页"></a>
+            </div>
+            <!----------//　Logo 结束　//---------->
+            <!----------//　用户开始　//---------->
+            <div class="user">
+                <a class="btn_logout" href="Handler/LoginOut.ashx" target="_self">退出</a> <span class="user_info">
+                    您好，<b class="color_2"></b> | 今天是<code class="color_1"></code>年<code class="color_1"></code>月<code
+                        class="color_1"></code>日<code class="color_1"></code></span>
+            </div>
+            <!----------//　用户结束　//---------->
+            <div class="clear">
+            </div>
+            <!----------//　导航开始　//---------->
+            <div class="nav">
+                <ul>
+                    <li><a href="javascript:void(null);" title="">
+                        <img src="img/nav_1.gif" alt="" /></a>
+                        <div class="subnav" id="subnav_1">
+                        </div>
+                    </li>
+                    <li><a href="javascript:void(null);" title="">
+                        <img src="img/nav_2.gif" alt="" /></a>
+                        <div class="subnav" id="subnav_2">
+                        </div>
+                    </li>
+                    <li><a href="javascript:void(null);" title="">
+                        <img src="img/nav_3.gif" alt="" /></a>
+                        <div class="subnav" id="subnav_3">
+                        </div>
+                    </li>
+                    <li><a href="javascript:void(null);" title="">
+                        <img src="img/nav_4.gif" alt="" /></a>
+                        <div class="subnav" id="subnav_4">
+                        </div>
+                    </li>
+                    <li><a id="subnav_index" href="index.html" target="_blank" title="返回首页">
+                        <img src="img/nav_5.gif" alt="" /></a> </li>
+                </ul>
+                <div class="clear">
+                </div>
+            </div>
+            <!----------//　导航结束　//---------->
+            <!----------//　搜索开始　//---------->
+            <div class="search">
+                <span class="search_line_2"></span><span class="search_line_1"></span>
+                <!--- 简单搜索开始 --->
+                <ul class="form_list">
+                    <li><span class="name"><b class="color_2">简单搜索：</b></span> <span class="input">
+                        <input id="keyword" style="width: 573px;" type="text" value="" /></span><a class="btn_more"
+                            href="javascript:void(null);" id="look_hot_keyword"><b>热点关键词</b></a> <a class="btn_super"
+                                href="search.html" target="_blank"><b>高级搜索</b></a> <a class="btn_search" id="btn_search"
+                                    href="javascript:void(null);"></a></li>
+                </ul>
+                <!--- 简单搜索结束 --->
+                <div class="clear">
+                </div>
+                <span class="search_line_1"></span><span class="search_line_2"></span>
+            </div>
+            <!----------//　搜索结束　//---------->
+        </div>
+    </div>
+    <!-------------------------　顶　部　结　束　------------------------->
+    <!-------------------------　中　部　开　始　------------------------->
+    <div class="main">
+        <div class="wraper">
+            <!----------//　今日聚焦开始　//---------->
+            <div class="subcontent skin_1 left" name="head_list_div" style="display: none;">
+                <h1>
+                    <b class="color_2">舆情聚焦</b></h1>
+                <a class="btn_more" href="hotlist.html" target="_blank" title="查看更多">更多</a>
+                <ul class="news_list" id="society_clusters">
+                    <!--- {数据绑定}开始 --->
+                    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+                        <tr>
+                            <td align="center">
+                                <img src="img/loading_icon.gif" alt="loading..." />
+                            </td>
+                        </tr>
+                    </table>
+                    <!--- {数据绑定}结束 --->
+                </ul>
+            </div>
+            <!----------//　今日聚焦结束　//---------->
+            <!----------//　重点专题开始　//---------->
+            <div class="subcontent skin_3 left" name="head_list_div" style="display: none;">
+                <span class="news_focus" id="special_category_image"></span>
+                <ul class="news_list" id="special_category_list">
+                    <!--- {数据绑定}开始 --->
+                    <!--- {数据绑定}结束 --->
+                </ul>
+                <h1>
+                    <b>最新专题</b></h1>
+                <a class="btn_more" href="ylzt.html" title="查看更多" target="_blank">更多</a>
+                <ul class="news_list" id="index_new_category">
+                    <!--- {数据绑定}开始 --->
+                    <!--- {数据绑定}结束 --->
+                </ul>
+            </div>
+            <!----------//　重点专题结束　//---------->
+            <div class="subcontent skin_2 right" name="head_list_div">
+                <h1>
+                    <b class="color_1">舆情预警</b><a class="btn_select" href="javascript:void(null);">敏感词</a></h1>
+                <div style="overflow: hidden;">
+                    <ul class="news_list" id="sentive_word">
+                        <!--- {数据绑定}开始 --->
+                        <!--- {数据绑定}结束 --->
+                    </ul>
+                </div>
+            </div>
+            <div class="subcontent skin_2 right" name="head_list_div">
+                <h1>
+                    <b class="color_1">热门视频</b><a href="javascript:void(null);"></a><b class="color_1">
+                        <a href="AccidentReportList.html">事故调查报告</a>
+                        <!--<a href="http://localhost:8992/yiqitemporary/Reportlist.aspx">事故调查报告</a>-->
+                        <!--http://10.16.6.182/yiqitemporary/Reportlist.aspx-->
+                    </b>
+                </h1>
+                <div style="overflow: hidden;">
+                    <ul class="video_list" id="video_list">
+                        <img src="img/loading_icon.gif" alt="loading..." />
+                        <!--<li><a href="{视频链接，点击弹出层播放，如同微博}" targert="_blank"><span class="img">{视频截图}</span> <span
+                            class="text">{视频标题}</span> <span class="date">{日期，格式：年-月-日}</span> </a></li>-->
+                    </ul>
+                </div>
+            </div>
+            <!----------//　今日预警结束　//---------->
+            <div class="clear">
+            </div>
+            <div class="index">
+                <!----------//　行业分类标题开始　//---------->
+                <ul class="title_tab" id="category_list">
+                </ul>
+                <div class="clear">
+                </div>
+                <!--<a class="btn_set" href="javascript:void(null);"></a>-->
+                <div id="special_category">
+                    <!----------//　新闻开始　//---------->
+                    <div class="subcontent skin_4 skin_4_2 left">
+                        <h1>
+                            <b>最新舆情 | <code style="cursor: pointer;" id="btn_look_news">新闻</code></b>
+                        </h1>
+                        <ul id="slide_news_list" class="news_list">
+                            <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+                                <tr>
+                                    <td align="center">
+                                        <img src="img/loading_icon.gif" alt="loading..." />
+                                    </td>
+                                </tr>
+                            </table>
+                        </ul>
+                    </div>
+                    <!----------//　新闻结束　//---------->
+                    <!----------//　博客开始　//---------->
+                    <div class="subcontent skin_4 skin_4_1 left">
+                        <h1>
+                            <b>最新舆情 | <code style="cursor: pointer;" id="btn_look_blog">博客</code></b>
+                        </h1>
+                        <ul class="news_list" id="blog_list">
+                        </ul>
+                    </div>
+                    <!----------//　博客结束　//---------->
+                    <!----------//　论坛开始　//---------->
+                    <div class="subcontent skin_4 skin_4_3 left">
+                        <h1>
+                            <b>最新舆情 | <code style="cursor: pointer;" id="btn_look_bbs">论坛</code></b>
+                        </h1>
+                        <ul class="news_list" id="bbs_list">
+                        </ul>
+                    </div>
+                    <!----------//　论坛结束　//---------->
+                    <div class="clear">
+                    </div>
+                </div>
+                <div id="special_swsg" class="special_swsg_style" style="display: none;">
+                    <!----------//　新闻开始　//---------->
+                    <div class="special_swsg_left">
+                    </div>
+                    <div class="special_swsg_content">
+                        <ul id="sgxx_content">
+                        </ul>
+                    </div>
+                    <div class="special_swsg_right">
+                    </div>
+                </div>
+            </div>
+            <!----------//　排行开始　//---------->
+            <div class="subcontent skin_5 left">
+                <h1>
+                    <ul class="order_tab">
+                        <li class="tab_on" style="width: 79px;" id="point_blog_sel">博客热议</li>
+                        <li class="tab_off" style="width: 78px;" id="point_bbs_sel">论坛热议</li>
+                        <li class="tab_off" style="width: 79px; border-right: 0;" id="point_weibo_sel">微博热议</li>
+                    </ul>
+                    <div class="clear">
+                    </div>
+                </h1>
+                <ul class="news_list" id="point_blog_frame">
+                    <!--- {数据绑定}开始 --->
+                    <!--<li>
+              <a href="list.html"><span class="num red">1</span><span class="text color_7">调查称河南新密25人亡煤矿证件不全违...</span><span class="temperature_red">升温</span></a>
+            </li>  -->
+                    <!--- {数据绑定}结束 --->
+                </ul>
+                <ul class="news_list" id="point_bbs_frame" style="display: none;">
+                    <!--<li>
+              <a href="list.html"><span class="num">10</span><span class="text color_7">一道"下井令"执行下来缘何非得三令五申</span><span class="temperature_green">降温</span></a>
+            </li> -->
+                </ul>
+                <ul class="news_list" id="point_weibo_frame" style="display: none;">
+                    <img src="img/loading_icon.gif" alt="loading..." />
+                </ul>
+            </div>
+            <!----------//　排行结束　//---------->
+            <!----------//　分析图表开始　//---------->
+            <div class="subcontent skin_4 left">
+                <h1>
+                    <b>舆情分析</b><a class="btn_select" href="javascript:void(null);" style="cursor: default;">全国形式图</a></h1>
+                <a class="btn_more" href="district.html" target="_blank" title="">更多</a>
+                <div class="tupian">
+                    <div class="ditu">
+                        <div class="chinese_ditu">
+                            <div class="chinese_xj">
+                            </div>
+                            <div class="chinese_xz">
+                            </div>
+                            <div class="chinese_qh">
+                            </div>
+                            <div class="chinese_gs">
+                            </div>
+                            <div class="chinese_nmg">
+                            </div>
+                            <div class="chinese_hlj">
+                            </div>
+                            <div class="chinese_jl">
+                            </div>
+                            <div class="chinese_ln">
+                            </div>
+                            <div class="chinese_sd">
+                            </div>
+                            <div class="chinese_heb">
+                            </div>
+                            <div class="chinese_shx">
+                            </div>
+                            <div class="chinese_bj">
+                            </div>
+                            <div class="chinese_tj">
+                            </div>
+                            <div class="chinese_sx">
+                            </div>
+                            <div class="chinese_nx">
+                            </div>
+                            <div class="chinese_hen">
+                            </div>
+                            <div class="chinese_js">
+                            </div>
+                            <div class="chinese_ah">
+                            </div>
+                            <div class="chinese_sh">
+                            </div>
+                            <div class="chinese_zj">
+                            </div>
+                            <div class="chinese_jx">
+                            </div>
+                            <div class="chinese_fj">
+                            </div>
+                            <div class="chinese_gd">
+                            </div>
+                            <div class="chinese_han">
+                            </div>
+                            <div class="chinese_gx">
+                            </div>
+                            <div class="chinese_gz">
+                            </div>
+                            <div class="chinese_yn">
+                            </div>
+                            <div class="chinese_sc">
+                            </div>
+                            <div class="chinese_cq">
+                            </div>
+                            <div class="chinese_hn">
+                            </div>
+                            <div class="chinese_hb">
+                            </div>
+                            <div class="chinese_tw">
+                            </div>
+                            <div class="chinese_xg">
+                            </div>
+                            <div class="chinese_am">
+                            </div>
+                        </div>
+                        <div class="ditu-table">
+                            <ul class="baiao">
+                                <li class="baiao1">舆情热度偏高</li>
+                                <li class="baiao2">舆情热度一般</li>
+                                <li class="baiao3">舆情热度偏低</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!----------//　分析图表结束　//---------->
+            <!----------//　简报开始　//---------->
+            <div class="subcontent skin_5 right">
+                <h1>
+                    <ul class="order_tab">
+                        <li class="tab_on" id="report_week_sel">舆情周报</li>
+                        <li class="tab_off" id="report_sginfo_sel">事故信息</li>
+                        <!--<li class="tab_off" id="report_special_sel" >舆情专报</li>
+              <li class="tab_off" id="report_month_sel" >其他报告</li>-->
+                    </ul>
+                </h1>
+                <!--<a class="btn_more" href="zblist.html" target="_blank">更多</a>-->
+                <ul class="news_list" id="report_week_frame">
+                    <!--- {数据绑定}开始 --->
+                    <!--<li>
+                <span class="text">2011-02-13至2011-02-19</span><a class="btn_download" href="detail.html">下载</a><a class="btn_print" href="detail.html">打印</a>
+              </li>-->
+                    <!--- {数据绑定}结束 --->
+                </ul>
+                <ul class="news_list" id="report_special_frame" style="display: none;">
+                    <!--- {数据绑定}开始 --->
+                    <!--- {数据绑定}结束 --->
+                </ul>
+                <ul class="news_list" id="report_month_frame" style="display: none;">
+                    <!--- {数据绑定}开始 --->
+                    <!--- {数据绑定}结束 --->
+                </ul>
+                <ul class="news_list" id="report_sginfo_frame" style="display: none;">
+                    <!--- {数据绑定}开始 --->
+                    <!--- {数据绑定}结束 --->
+                </ul>
+                <div class="clear">
+                </div>
+            </div>
+            <!----------//　简报结束　//---------->
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <!-------------------------　中　部　结　束　------------------------->
+    <!-------------------------　底　部　开　始　------------------------->
+    <div class="footer">
+        <div class="wraper">
+            <!----------//　版权信息开始　//---------->
+            <div class="copyright" id="footer_info">
+            </div>
+            <!----------//　版权信息结束　//---------->
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <!-------------------------　底　部　结　束　------------------------->
+    <!--隐藏div-->
+    <div id="sad">
+    </div>
+    <div class="floatdiv" id="layer">
+        <div class="layer_outer">
+            <div class="layer_inner" id="layer_inner" style="width: 660px;">
+                <div class="layer_move" id="topicmove_column" title="点击此处可自由拖动">
+                    <h1 id="newsCount">
+                        视频播放</h1>
+                </div>
+                <a class="btn_close" id="btn_close" href="javascript:void(null)" title="关闭窗口"></a>
+                <div class="clear">
+                </div>
+                <div class="layer_C" style="height: 400px;">
+                    <!--内容-->
+                    <div id="video_div">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

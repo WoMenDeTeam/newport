@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <title>网络舆情</title>
+    <link type="text/css" rel="stylesheet" href="css/style.css" />
+    <script src="js/jquery.js" type="text/javascript"></script>
+    <script src="jwplayer/jwplayer.js" type="text/javascript"></script>
+    <script src="js/divMove.js" type="text/javascript"></script>
+    <script src="js/common.js" type="text/javascript"></script>
+    <script src="js/Pager.js" type="text/javascript"></script>
+    <script type="text/javascript" src="js/inputcue.js"></script>
+    <script type="text/javascript">
+        //Common.ShowEditFrame("", "", "", "");
+        jwplayer.key = "CwxP8rWmIY5Zsh1Se+60CjBdXEmtiAUMQlakPA==";
+    </script>
+    <script src="js/leader.js" type="text/javascript"></script>
+</head>
+<body class="leader">
+    <!-------------------------　顶　部　开　始　------------------------->
+    <div class="header">
+        <div class="wraper">
+            <!----------//　Logo 开始　//---------->
+            <div class="logo">
+                <a href="index.html" title="首页"></a>
+            </div>
+            <!----------//　Logo 结束　//---------->
+            <!----------//　用户开始　//---------->
+            <div class="user">
+                <a class="btn_logout" href="Handler/LoginOut.ashx" target="_self">退出</a> <span class="user_info">
+                    您好，<b class="color_2">1@live.cn</b> | 今天是<code class="color_1">2011</code>年<code
+                        class="color_1">4</code>月<code class="color_1">17</code>日<code class="color_1"> 星期天</code></span>
+            </div>
+            <!----------//　用户结束　//---------->
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <!-------------------------　中　部　开　始　------------------------->
+    <div class="main">
+        <div class="wraper">
+            <!----------//　新闻推送开始　//---------->
+            <div class="content list">
+                <ul class="order_tab" id="category_list" style="height: 28px;">
+                    <!--<li class="tab_on">煤矿</li>
+
+	    <li class="tab_off">非煤矿山</li>
+
+	    <li class="tab_off">危险化学品</li>
+	    <li class="tab_off">烟花爆竹</li>
+	    <li class="tab_off">道路交通</li>
+	    <li class="tab_off">消防火灾</li>-->
+                </ul>
+                <div class="clear">
+                </div>
+            </div>
+            <!----------//　今日聚焦开始　//---------->
+            <div class="subcontent skin_1 left" name="head_list_div" style="display: none;">
+                <h1>
+                    <b class="color_2">舆情聚焦</b></h1>
+                <a class="btn_more" href="hotlist.html" target="_blank" title="查看更多">更多</a>
+                <ul class="news_list" id="society_clusters">
+                    <!--- {数据绑定}开始 --->
+                    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+                        <tr>
+                            <td align="center">
+                                <img src="img/loading_icon.gif" alt="loading..." />
+                            </td>
+                        </tr>
+                    </table>
+                    <!--- {数据绑定}结束 --->
+                </ul>
+            </div>
+            <!----------//　今日聚焦结束　//---------->
+            <!----------//　新闻推送开始　//---------->
+            <div class="content skin_2 list">
+                <ul class="order_tab" id="yqinfo_tb">
+                    <li class="tab_on" link="leaderlist.html" id="yqts_li" plan="searchresult_plan">舆情</li>
+                    <li class="tab_off" link="yqvideo.html" id="spts_li" plan="video_plan">视频</li>
+                </ul>
+                <a class="btn_more" href="leaderlist.html" id="machlink" target="_blank" title="查看更多">
+                    更多</a>
+                <div class="order" style="height: 360px;" id="searchresult_plan" group="yqInfo">
+                    <ul class="news_list" id="SearchResult">
+                        <!--<li><a name="北京和平里4-11老式居民楼煤气爆炸事故"  title="北京和平里4-11老式居民楼煤气爆炸事故" href="javascript:void(null);"><span class="text color_7">新闻 ｜ 北京和平里4-11老式居民楼煤气爆炸事故</span><span class="date">2011-04-11</span><span class="rss">【腾讯新闻】</span></a><a class="btn_link" href="#">【相关资讯】</a><a class="btn_rss" href="#">【查看源网址】</a></li>-->
+                    </ul>
+                </div>
+                <div class="order" id="video_plan" style="display: none;" group="yqInfo">
+                    <ul class="news_list" id="SearchVideo">
+                    </ul>
+                </div>
+            </div>
+            <!----------//　信息推送结束　//---------->
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <!-------------------------　中　部　结　束　------------------------->
+    <div class="footer">
+        <div class="wraper">
+            <!----------//　版权信息开始　//---------->
+            <div class="copyright" id="footer_info">
+            </div>
+            <!----------//　版权信息结束　//---------->
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <!-------------------------　底　部　结　束　------------------------->
+    <!--隐藏div-->
+    <!--隐藏div-->
+    <div id="sad">
+    </div>
+    <div class="floatdiv" id="layer">
+        <div class="layer_outer">
+            <div class="layer_inner" id="layer_inner" style="width: 660px;">
+                <div class="layer_move" id="topicmove_column" title="点击此处可自由拖动">
+                    <h1 id="newsCount">
+                        视频播放</h1>
+                </div>
+                <a class="btn_close" id="btn_close" href="javascript:void(null)" title="关闭窗口"></a>
+                <div class="clear">
+                </div>
+                <div class="layer_C" style="height: 400px;">
+                    <!--内容-->
+                    <div id="video_div">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

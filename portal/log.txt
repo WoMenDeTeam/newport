@@ -1,0 +1,2358 @@
+2011-04-29 15:20:53,609 [4] ERROR Error [(null)] - ticketST-14-nm7WF7xafedSIgR0ndnk
+2011-04-29 15:22:16,656 [4] ERROR Error [(null)] - ticketST-14-nm7WF7xafedSIgR0ndnk
+2011-04-29 15:23:02,828 [9] ERROR Error [(null)] - ticketST-15-gieEkK9FgtgtFvTEccKk
+2011-04-29 15:23:14,078 [9] ERROR Error [(null)] - ticketST-16-6ARAZphUUckv6ZN6fCmM
+2011-04-29 15:41:50,515 [10] ERROR Error [(null)] - ticketST-24-mjJugfYhCHv552gsfdmk
+2011-04-29 15:41:56,609 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-24-mjJugfYhCHv552gsfdmk&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:02,078 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:04,359 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:15,781 [10] ERROR Error [(null)] - ticketST-25-xVHm2TmeZnNcwGixFD0C
+2011-04-29 15:42:15,781 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-25-xVHm2TmeZnNcwGixFD0C&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:15,796 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:15,796 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:23,218 [10] ERROR Error [(null)] - ticketST-26-m5FenZWqLAr2EjrU2uh4
+2011-04-29 15:42:23,218 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-26-m5FenZWqLAr2EjrU2uh4&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:23,234 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:23,234 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:29,187 [4] ERROR Error [(null)] - ticketST-27-XhVCfvtcvzAqvn3QAYzf
+2011-04-29 15:42:29,187 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-27-XhVCfvtcvzAqvn3QAYzf&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:29,203 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:29,203 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:34,796 [10] ERROR Error [(null)] - ticketST-28-WkDEtJwPDfyG5dY4uIGU
+2011-04-29 15:42:34,796 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-28-WkDEtJwPDfyG5dY4uIGU&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:34,796 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:34,796 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:40,265 [10] ERROR Error [(null)] - ticketST-29-S91LfZ6nY7TUmutlAS7L
+2011-04-29 15:42:40,265 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-29-S91LfZ6nY7TUmutlAS7L&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:40,281 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:40,281 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:49,484 [4] ERROR Error [(null)] - ticketST-30-mAFRcb9svCogCzG7SWN0
+2011-04-29 15:42:49,500 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-30-mAFRcb9svCogCzG7SWN0&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:49,500 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:49,500 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:49,859 [10] ERROR Error [(null)] - ticketST-31-oIwys5eO2IVg4vrx7eH6
+2011-04-29 15:42:49,859 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-31-oIwys5eO2IVg4vrx7eH6&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:49,875 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:49,875 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:50,140 [4] ERROR Error [(null)] - ticketST-32-7zB5ZRApSVU6cEbCa5xb
+2011-04-29 15:42:50,140 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-32-7zB5ZRApSVU6cEbCa5xb&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:50,156 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:50,156 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:50,421 [10] ERROR Error [(null)] - ticketST-33-udfY2WRund0M2kGnUXWY
+2011-04-29 15:42:50,421 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-33-udfY2WRund0M2kGnUXWY&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:50,421 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:50,421 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:50,687 [10] ERROR Error [(null)] - ticketST-34-DphynGMR6Sdiw7dl4LNH
+2011-04-29 15:42:50,687 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-34-DphynGMR6Sdiw7dl4LNH&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:50,703 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:50,703 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:50,953 [4] ERROR Error [(null)] - ticketST-35-o7aCXUXUTkxpCft5eFAI
+2011-04-29 15:42:50,953 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-35-o7aCXUXUTkxpCft5eFAI&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:50,968 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:50,968 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:51,250 [10] ERROR Error [(null)] - ticketST-36-pYMqCACHai4RlqBrOVj5
+2011-04-29 15:42:51,250 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-36-pYMqCACHai4RlqBrOVj5&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:51,250 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:51,250 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:51,515 [4] ERROR Error [(null)] - ticketST-37-GeNFBy6DIY5iYlEleQaP
+2011-04-29 15:42:51,515 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-37-GeNFBy6DIY5iYlEleQaP&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:51,515 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:51,531 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:51,812 [10] ERROR Error [(null)] - ticketST-38-DdCWM22gl1g0g3FwRdVn
+2011-04-29 15:42:51,812 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-38-DdCWM22gl1g0g3FwRdVn&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:51,828 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:51,828 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:52,156 [10] ERROR Error [(null)] - ticketST-39-qxMTv3c6UpxCcGfovYaK
+2011-04-29 15:42:52,156 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-39-qxMTv3c6UpxCcGfovYaK&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:52,156 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:52,156 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:52,421 [10] ERROR Error [(null)] - ticketST-40-x1lGTTGl0eBuwRyIl264
+2011-04-29 15:42:52,421 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-40-x1lGTTGl0eBuwRyIl264&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:52,437 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:52,437 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:52,703 [10] ERROR Error [(null)] - ticketST-41-VPWGvsJvBxIcw97b3DHf
+2011-04-29 15:42:52,703 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-41-VPWGvsJvBxIcw97b3DHf&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:52,703 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:52,703 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:52,968 [4] ERROR Error [(null)] - ticketST-42-K4elPYurqUJPWOuHRHNS
+2011-04-29 15:42:52,968 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-42-K4elPYurqUJPWOuHRHNS&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:52,984 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:52,984 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:53,250 [4] ERROR Error [(null)] - ticketST-43-Or0GSdf3I3vSJd0PFMof
+2011-04-29 15:42:53,250 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-43-Or0GSdf3I3vSJd0PFMof&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:53,250 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:53,265 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:53,515 [10] ERROR Error [(null)] - ticketST-44-tdYNdrGQRLCfXHoDozez
+2011-04-29 15:42:53,515 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-44-tdYNdrGQRLCfXHoDozez&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:53,531 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:53,531 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:53,812 [10] ERROR Error [(null)] - ticketST-45-CDMdJuWcCymdRdqWVuZg
+2011-04-29 15:42:53,812 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-45-CDMdJuWcCymdRdqWVuZg&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:53,828 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:53,828 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:54,328 [10] ERROR Error [(null)] - ticketST-46-f2qccPhMBzOjfvfciwut
+2011-04-29 15:42:54,328 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-46-f2qccPhMBzOjfvfciwut&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:54,328 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:54,328 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:54,671 [10] ERROR Error [(null)] - ticketST-47-fNikOFsbl1WqT3C7huqV
+2011-04-29 15:42:54,671 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-47-fNikOFsbl1WqT3C7huqV&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:54,671 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:54,671 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:55,000 [4] ERROR Error [(null)] - ticketST-48-QE0TdMP9JX3cdaUItj6q
+2011-04-29 15:42:55,000 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-48-QE0TdMP9JX3cdaUItj6q&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:55,000 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:55,000 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:55,265 [10] ERROR Error [(null)] - ticketST-49-2y0bHelia7bpGrRoedbX
+2011-04-29 15:42:55,265 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-49-2y0bHelia7bpGrRoedbX&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:55,281 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:55,281 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:55,531 [10] ERROR Error [(null)] - ticketST-50-zezKfhpaIeFjX4YwsI5W
+2011-04-29 15:42:55,531 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-50-zezKfhpaIeFjX4YwsI5W&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:55,531 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:55,531 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:55,812 [4] ERROR Error [(null)] - ticketST-51-5L0YFLGBtySWead1CvnT
+2011-04-29 15:42:55,812 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-51-5L0YFLGBtySWead1CvnT&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:55,812 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:55,812 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:56,140 [4] ERROR Error [(null)] - ticketST-52-rbq0BU9LldjbFhxcrMTo
+2011-04-29 15:42:56,140 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-52-rbq0BU9LldjbFhxcrMTo&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:56,156 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:56,156 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:56,406 [4] ERROR Error [(null)] - ticketST-53-fTzOUR1X9YqPszoeoset
+2011-04-29 15:42:56,406 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-53-fTzOUR1X9YqPszoeoset&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:56,421 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:56,421 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:56,687 [10] ERROR Error [(null)] - ticketST-54-iYrI5CHKHM3aXcgqGQ9Y
+2011-04-29 15:42:56,687 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-54-iYrI5CHKHM3aXcgqGQ9Y&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:56,687 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:56,687 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:56,953 [4] ERROR Error [(null)] - ticketST-55-S21xO1Ek5Gvk3Ila9fhT
+2011-04-29 15:42:56,953 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-55-S21xO1Ek5Gvk3Ila9fhT&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:56,953 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:56,968 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:57,250 [4] ERROR Error [(null)] - ticketST-56-hUxBCfgpkjAjlAwdo0PP
+2011-04-29 15:42:57,250 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-56-hUxBCfgpkjAjlAwdo0PP&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:57,250 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:57,250 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:57,500 [10] ERROR Error [(null)] - ticketST-57-xoMAemq5jozUg5YFlwsc
+2011-04-29 15:42:57,500 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-57-xoMAemq5jozUg5YFlwsc&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:57,515 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:57,515 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:57,781 [4] ERROR Error [(null)] - ticketST-58-s04renNtZx90JPVov4gW
+2011-04-29 15:42:57,781 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-58-s04renNtZx90JPVov4gW&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:57,781 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:57,781 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:58,046 [4] ERROR Error [(null)] - ticketST-59-Zr7hNfScfobZYklAgpql
+2011-04-29 15:42:58,046 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-59-Zr7hNfScfobZYklAgpql&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:58,062 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:58,062 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:58,312 [10] ERROR Error [(null)] - ticketST-60-642Vnsf2TCbn2pmuCt6G
+2011-04-29 15:42:58,312 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-60-642Vnsf2TCbn2pmuCt6G&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:58,328 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:58,328 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:58,578 [10] ERROR Error [(null)] - ticketST-61-4egBwuhjKkIrqGaXtw0L
+2011-04-29 15:42:58,578 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-61-4egBwuhjKkIrqGaXtw0L&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:58,578 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:58,593 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:58,843 [10] ERROR Error [(null)] - ticketST-62-zPIFlakdGci5ifR51nSE
+2011-04-29 15:42:58,843 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-62-zPIFlakdGci5ifR51nSE&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:58,859 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:58,859 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:59,125 [10] ERROR Error [(null)] - ticketST-63-WW5k0ch5DPnwB6TB4O3F
+2011-04-29 15:42:59,125 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-63-WW5k0ch5DPnwB6TB4O3F&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:59,125 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:59,125 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:59,390 [4] ERROR Error [(null)] - ticketST-64-HvfNad92zdewH0hru3ce
+2011-04-29 15:42:59,390 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-64-HvfNad92zdewH0hru3ce&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:59,390 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:59,390 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:59,671 [4] ERROR Error [(null)] - ticketST-65-lcdjibF7ZPHnM00fTspw
+2011-04-29 15:42:59,671 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-65-lcdjibF7ZPHnM00fTspw&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:59,671 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:59,671 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:42:59,937 [4] ERROR Error [(null)] - ticketST-66-bCCRlFaMwbJIbkwpvijN
+2011-04-29 15:42:59,937 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-66-bCCRlFaMwbJIbkwpvijN&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:42:59,937 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:42:59,937 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:00,203 [4] ERROR Error [(null)] - ticketST-67-MiDy0UnwHm3GcEizC57e
+2011-04-29 15:43:00,203 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-67-MiDy0UnwHm3GcEizC57e&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:00,218 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:00,218 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:00,500 [10] ERROR Error [(null)] - ticketST-68-FsodSr9TalCTLlNh9CWO
+2011-04-29 15:43:00,500 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-68-FsodSr9TalCTLlNh9CWO&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:00,500 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:00,500 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:00,765 [10] ERROR Error [(null)] - ticketST-69-FDfeJb6dsEBKrJ6JOEIi
+2011-04-29 15:43:00,765 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-69-FDfeJb6dsEBKrJ6JOEIi&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:00,781 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:00,781 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:01,093 [4] ERROR Error [(null)] - ticketST-70-bciHElyMJ10dcQQt3X5E
+2011-04-29 15:43:01,093 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-70-bciHElyMJ10dcQQt3X5E&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:01,093 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:01,093 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:01,359 [10] ERROR Error [(null)] - ticketST-71-XNCWLqwOfN2cKp10tvdY
+2011-04-29 15:43:01,359 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-71-XNCWLqwOfN2cKp10tvdY&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:01,359 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:01,359 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:01,625 [4] ERROR Error [(null)] - ticketST-72-HOzXnozRIM3htaAbu9J0
+2011-04-29 15:43:01,625 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-72-HOzXnozRIM3htaAbu9J0&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:01,625 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:01,640 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:01,921 [4] ERROR Error [(null)] - ticketST-73-IvYzNhy9UI4rAbzLuaRu
+2011-04-29 15:43:01,921 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-73-IvYzNhy9UI4rAbzLuaRu&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:01,937 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:01,937 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:02,203 [10] ERROR Error [(null)] - ticketST-74-CX3Eu26ftZZNcdiStdNY
+2011-04-29 15:43:02,203 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-74-CX3Eu26ftZZNcdiStdNY&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:02,203 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:02,203 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:02,468 [10] ERROR Error [(null)] - ticketST-75-xJmQKjn7mtg7jEJyy9jU
+2011-04-29 15:43:02,468 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-75-xJmQKjn7mtg7jEJyy9jU&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:02,484 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:02,484 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:02,750 [10] ERROR Error [(null)] - ticketST-76-QBQBscTc2Kjuv7tO1ciN
+2011-04-29 15:43:02,750 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-76-QBQBscTc2Kjuv7tO1ciN&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:02,750 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:02,750 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:03,015 [4] ERROR Error [(null)] - ticketST-77-VOgsYlaKiDnEXdQ1sp3O
+2011-04-29 15:43:03,015 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-77-VOgsYlaKiDnEXdQ1sp3O&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:03,031 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:03,031 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:03,296 [10] ERROR Error [(null)] - ticketST-78-4i3tSgodKciHq0TVcFFA
+2011-04-29 15:43:03,296 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-78-4i3tSgodKciHq0TVcFFA&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:03,296 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:03,296 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:03,562 [4] ERROR Error [(null)] - ticketST-79-R0umkHKNdpxDuv5kvFNV
+2011-04-29 15:43:03,562 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-79-R0umkHKNdpxDuv5kvFNV&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:03,562 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:03,562 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:03,843 [4] ERROR Error [(null)] - ticketST-80-ETeoOkzTl7BcxxcmorDk
+2011-04-29 15:43:03,843 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-80-ETeoOkzTl7BcxxcmorDk&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:03,843 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:03,843 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:04,140 [4] ERROR Error [(null)] - ticketST-81-Re14LcUnTFo74pMZvswG
+2011-04-29 15:43:04,140 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-81-Re14LcUnTFo74pMZvswG&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:04,140 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:04,140 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:04,406 [10] ERROR Error [(null)] - ticketST-82-sGVZ5ComeeNszura7XRP
+2011-04-29 15:43:04,406 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-82-sGVZ5ComeeNszura7XRP&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:04,421 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:04,421 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:04,671 [4] ERROR Error [(null)] - ticketST-83-YZcGJnXAdIfhKkOSdBa2
+2011-04-29 15:43:04,671 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-83-YZcGJnXAdIfhKkOSdBa2&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:04,687 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:04,687 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:04,953 [10] ERROR Error [(null)] - ticketST-84-vKRjyyc4JhbdveTFbEIY
+2011-04-29 15:43:04,953 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-84-vKRjyyc4JhbdveTFbEIY&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:04,968 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:04,968 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:05,218 [4] ERROR Error [(null)] - ticketST-85-tYcrbrbyDQcPLfXpzHkT
+2011-04-29 15:43:05,218 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-85-tYcrbrbyDQcPLfXpzHkT&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:05,218 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:05,234 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:05,484 [10] ERROR Error [(null)] - ticketST-86-ehRVZ6XMHR22yVgT7WXj
+2011-04-29 15:43:05,484 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-86-ehRVZ6XMHR22yVgT7WXj&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:05,500 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:05,500 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:05,765 [10] ERROR Error [(null)] - ticketST-87-DXIviH69dOeuPpjyMnmL
+2011-04-29 15:43:05,765 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-87-DXIviH69dOeuPpjyMnmL&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:05,765 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:05,765 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:06,031 [4] ERROR Error [(null)] - ticketST-88-iWCO9GcMxBDsE0ifPK1a
+2011-04-29 15:43:06,031 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-88-iWCO9GcMxBDsE0ifPK1a&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:06,031 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:06,031 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:06,296 [10] ERROR Error [(null)] - ticketST-89-2NyCiV0DJTtRaIc04nce
+2011-04-29 15:43:06,296 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-89-2NyCiV0DJTtRaIc04nce&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:06,312 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:06,312 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:06,578 [10] ERROR Error [(null)] - ticketST-90-kbiCePU647StKpYM97Am
+2011-04-29 15:43:06,578 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-90-kbiCePU647StKpYM97Am&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:06,578 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:06,578 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:06,859 [10] ERROR Error [(null)] - ticketST-91-Ghlf5lzU45ChvZ0vu5fC
+2011-04-29 15:43:06,859 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-91-Ghlf5lzU45ChvZ0vu5fC&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:06,859 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:06,859 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:07,125 [10] ERROR Error [(null)] - ticketST-92-cvWeRo6tkvAPm4m7Ddoi
+2011-04-29 15:43:07,125 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-92-cvWeRo6tkvAPm4m7Ddoi&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:07,125 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:07,125 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:07,390 [10] ERROR Error [(null)] - ticketST-93-F1fmg05oKh1ioIKzfAuK
+2011-04-29 15:43:07,390 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-93-F1fmg05oKh1ioIKzfAuK&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:07,406 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:07,406 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:07,671 [10] ERROR Error [(null)] - ticketST-94-qxZBt5eBwWDIOz0k2cNN
+2011-04-29 15:43:07,671 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-94-qxZBt5eBwWDIOz0k2cNN&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:07,671 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:07,671 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:07,953 [4] ERROR Error [(null)] - ticketST-95-hirgCPcLSHjHfOYDOrUP
+2011-04-29 15:43:07,953 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-95-hirgCPcLSHjHfOYDOrUP&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:07,953 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:07,953 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:08,218 [10] ERROR Error [(null)] - ticketST-96-5goOvukDXQMUfeJGei3r
+2011-04-29 15:43:08,218 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-96-5goOvukDXQMUfeJGei3r&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:08,234 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:08,234 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:08,500 [4] ERROR Error [(null)] - ticketST-97-ajox6d5jImEfnjKp3GBW
+2011-04-29 15:43:08,500 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-97-ajox6d5jImEfnjKp3GBW&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:08,500 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:08,500 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:08,765 [4] ERROR Error [(null)] - ticketST-98-bulBNISysvoSQge32ajP
+2011-04-29 15:43:08,765 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-98-bulBNISysvoSQge32ajP&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:08,765 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:08,781 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:09,031 [10] ERROR Error [(null)] - ticketST-99-vqCdKloSfOAz5cCWMSLJ
+2011-04-29 15:43:09,031 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-99-vqCdKloSfOAz5cCWMSLJ&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:09,046 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:09,046 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:09,312 [4] ERROR Error [(null)] - ticketST-100-dklISAcWPCw1XI1lYUNs
+2011-04-29 15:43:09,312 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-100-dklISAcWPCw1XI1lYUNs&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:09,312 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:09,312 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:09,578 [10] ERROR Error [(null)] - ticketST-101-NAX3EuwOwarZmDmFXrHH
+2011-04-29 15:43:09,578 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-101-NAX3EuwOwarZmDmFXrHH&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:09,593 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:09,593 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:09,875 [10] ERROR Error [(null)] - ticketST-102-cEIDuarHXV1aKw9b2NF1
+2011-04-29 15:43:09,875 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-102-cEIDuarHXV1aKw9b2NF1&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:09,875 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:09,875 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:10,140 [4] ERROR Error [(null)] - ticketST-103-FUOyxyXHAtPd9Z6GBKpl
+2011-04-29 15:43:10,140 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-103-FUOyxyXHAtPd9Z6GBKpl&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:10,156 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:10,156 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:10,421 [4] ERROR Error [(null)] - ticketST-104-laF3XdQw42P7SCtuX5CQ
+2011-04-29 15:43:10,421 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-104-laF3XdQw42P7SCtuX5CQ&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:10,421 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:10,421 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:10,703 [10] ERROR Error [(null)] - ticketST-105-wHpR0DY7RxyBskOtpYPn
+2011-04-29 15:43:10,703 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-105-wHpR0DY7RxyBskOtpYPn&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:10,703 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:10,703 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:10,984 [4] ERROR Error [(null)] - ticketST-106-0FLxifQW6bcNeGJSiObH
+2011-04-29 15:43:10,984 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-106-0FLxifQW6bcNeGJSiObH&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:10,984 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:10,984 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:11,250 [10] ERROR Error [(null)] - ticketST-107-xmkwgkKSWM7XLf7Y0LTg
+2011-04-29 15:43:11,250 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-107-xmkwgkKSWM7XLf7Y0LTg&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:11,265 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:11,265 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:11,515 [10] ERROR Error [(null)] - ticketST-108-qrL1jC0MlKyITpR7qKID
+2011-04-29 15:43:11,515 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-108-qrL1jC0MlKyITpR7qKID&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:11,531 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:11,531 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:11,812 [4] ERROR Error [(null)] - ticketST-109-kWwYCm91mNclIQDBhegP
+2011-04-29 15:43:11,812 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-109-kWwYCm91mNclIQDBhegP&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:11,812 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:11,812 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:12,171 [4] ERROR Error [(null)] - ticketST-110-3BGsTcTc7AF7wjQ4JlHy
+2011-04-29 15:43:12,171 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-110-3BGsTcTc7AF7wjQ4JlHy&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:12,171 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:12,171 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:12,437 [4] ERROR Error [(null)] - ticketST-111-IhmffoXRJkXr41PhT2Lz
+2011-04-29 15:43:12,437 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-111-IhmffoXRJkXr41PhT2Lz&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:12,437 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:12,437 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:12,718 [4] ERROR Error [(null)] - ticketST-112-nckhFaLECZC3kxruAfiX
+2011-04-29 15:43:12,718 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-112-nckhFaLECZC3kxruAfiX&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:12,734 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:12,734 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:13,000 [4] ERROR Error [(null)] - ticketST-113-bzIJpw4cqsN53hEUudzG
+2011-04-29 15:43:13,000 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-113-bzIJpw4cqsN53hEUudzG&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:13,015 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:13,015 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:13,296 [4] ERROR Error [(null)] - ticketST-114-sniznOeclId5cnF7LTHd
+2011-04-29 15:43:13,296 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-114-sniznOeclId5cnF7LTHd&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:13,296 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:13,296 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:13,593 [4] ERROR Error [(null)] - ticketST-115-EuyFjTHSf2jSgdhcdPuT
+2011-04-29 15:43:13,593 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-115-EuyFjTHSf2jSgdhcdPuT&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:13,593 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:13,593 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:13,875 [10] ERROR Error [(null)] - ticketST-116-muyrWNbjimcreeaJA6yV
+2011-04-29 15:43:13,875 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-116-muyrWNbjimcreeaJA6yV&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:13,890 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:13,890 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:14,156 [10] ERROR Error [(null)] - ticketST-117-sjyu5FMeU5iawxfIJWas
+2011-04-29 15:43:14,156 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-117-sjyu5FMeU5iawxfIJWas&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:14,171 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:14,171 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:14,468 [4] ERROR Error [(null)] - ticketST-118-W4D5IdXNB0fdm0VEdbfW
+2011-04-29 15:43:14,468 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-118-W4D5IdXNB0fdm0VEdbfW&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:14,468 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:14,468 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:14,750 [10] ERROR Error [(null)] - ticketST-119-dPmAi94TFzECONMbVuYg
+2011-04-29 15:43:14,750 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-119-dPmAi94TFzECONMbVuYg&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:14,750 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:14,750 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:15,031 [4] ERROR Error [(null)] - ticketST-120-uJgOafC45FAGyE7Ky69g
+2011-04-29 15:43:15,031 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-120-uJgOafC45FAGyE7Ky69g&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:15,031 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:15,031 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:15,312 [4] ERROR Error [(null)] - ticketST-121-txOPPXALxYsva0TbYFLb
+2011-04-29 15:43:15,312 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-121-txOPPXALxYsva0TbYFLb&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:15,312 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:15,312 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:15,578 [4] ERROR Error [(null)] - ticketST-122-ggQ3fFzGTa2eLCoQZ0cO
+2011-04-29 15:43:15,593 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-122-ggQ3fFzGTa2eLCoQZ0cO&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:15,593 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:15,593 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:15,875 [4] ERROR Error [(null)] - ticketST-123-v0vblTaykyj6VUimwiJb
+2011-04-29 15:43:15,875 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-123-v0vblTaykyj6VUimwiJb&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:15,906 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:15,906 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:16,203 [4] ERROR Error [(null)] - ticketST-124-YcS15flpyxGWrfC7wJBF
+2011-04-29 15:43:16,203 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-124-YcS15flpyxGWrfC7wJBF&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:16,218 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:16,218 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:16,484 [10] ERROR Error [(null)] - ticketST-125-nkuOhjzOvZivuPnDJnny
+2011-04-29 15:43:16,484 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-125-nkuOhjzOvZivuPnDJnny&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:16,500 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:16,500 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:16,765 [10] ERROR Error [(null)] - ticketST-126-syhyveqJCO4eeiPHAypZ
+2011-04-29 15:43:16,765 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-126-syhyveqJCO4eeiPHAypZ&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:16,765 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:16,765 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:17,046 [10] ERROR Error [(null)] - ticketST-127-qxFg9d6bhKFbIPeCHAYp
+2011-04-29 15:43:17,046 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-127-qxFg9d6bhKFbIPeCHAYp&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:17,046 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:17,046 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:17,328 [4] ERROR Error [(null)] - ticketST-128-JndgL1WR6lItiLkjrZnE
+2011-04-29 15:43:17,328 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-128-JndgL1WR6lItiLkjrZnE&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:17,328 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:17,328 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:17,593 [10] ERROR Error [(null)] - ticketST-129-YpKJVNGnh6JTbWgD1Z5C
+2011-04-29 15:43:17,593 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-129-YpKJVNGnh6JTbWgD1Z5C&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:17,609 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:17,609 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:17,875 [10] ERROR Error [(null)] - ticketST-130-ZzwzBb5A3Lq9VsiGgxfz
+2011-04-29 15:43:17,875 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-130-ZzwzBb5A3Lq9VsiGgxfz&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:17,875 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:17,875 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:18,140 [4] ERROR Error [(null)] - ticketST-131-B65yXgSdqZPP0gKt7UUw
+2011-04-29 15:43:18,140 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-131-B65yXgSdqZPP0gKt7UUw&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:18,140 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:18,140 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:18,406 [10] ERROR Error [(null)] - ticketST-132-rd2kK40dmUcc5VFCvLA3
+2011-04-29 15:43:18,406 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-132-rd2kK40dmUcc5VFCvLA3&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:18,406 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:18,406 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:18,671 [10] ERROR Error [(null)] - ticketST-133-At4EtBcTjKdbwaPdQTSu
+2011-04-29 15:43:18,671 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-133-At4EtBcTjKdbwaPdQTSu&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:18,671 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:18,671 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:18,937 [4] ERROR Error [(null)] - ticketST-134-bGH0R0uPgMqn0Fx9A2Om
+2011-04-29 15:43:18,937 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-134-bGH0R0uPgMqn0Fx9A2Om&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:18,937 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:18,937 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:19,203 [10] ERROR Error [(null)] - ticketST-135-opwGgcmIumMI4L622MLl
+2011-04-29 15:43:19,203 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-135-opwGgcmIumMI4L622MLl&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:19,218 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:19,218 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:43:19,484 [4] ERROR Error [(null)] - ticketST-136-VbVyySfTqlU1qEwST0HG
+2011-04-29 15:43:19,484 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-136-VbVyySfTqlU1qEwST0HG&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:43:19,484 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:43:19,484 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:41,359 [10] ERROR Error [(null)] - ticketST-137-QbQDXsCj9NLW06qvVHqH
+2011-04-29 15:44:41,359 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-137-QbQDXsCj9NLW06qvVHqH&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:41,375 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:41,375 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:41,718 [10] ERROR Error [(null)] - ticketST-138-4EWeEshK9JTeRkId3P0d
+2011-04-29 15:44:41,718 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-138-4EWeEshK9JTeRkId3P0d&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:41,718 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:41,718 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:42,000 [4] ERROR Error [(null)] - ticketST-139-ShQCiD4JJxWlaTDnuq91
+2011-04-29 15:44:42,000 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-139-ShQCiD4JJxWlaTDnuq91&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:42,000 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:42,000 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:42,281 [10] ERROR Error [(null)] - ticketST-140-OulDWQH2C5N5hLGgDJpn
+2011-04-29 15:44:42,281 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-140-OulDWQH2C5N5hLGgDJpn&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:42,281 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:42,281 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:42,453 [4] ERROR Error [(null)] - ticketST-141-bwwvPxiCCEYjsEkJ7Zvd
+2011-04-29 15:44:42,453 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-141-bwwvPxiCCEYjsEkJ7Zvd&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:42,468 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:42,468 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:42,718 [10] ERROR Error [(null)] - ticketST-142-fbta95WAh2Zim02Sh5Zj
+2011-04-29 15:44:42,718 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-142-fbta95WAh2Zim02Sh5Zj&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:42,718 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:42,718 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:42,984 [10] ERROR Error [(null)] - ticketST-143-rTd7WmtSaDMjkbteFcf9
+2011-04-29 15:44:42,984 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-143-rTd7WmtSaDMjkbteFcf9&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:43,000 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:43,000 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:43,265 [10] ERROR Error [(null)] - ticketST-144-LMrqqc9jLjLdsaWozdIT
+2011-04-29 15:44:43,265 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-144-LMrqqc9jLjLdsaWozdIT&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:43,265 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:43,265 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:43,546 [10] ERROR Error [(null)] - ticketST-145-XPx4x3uoySGzf7LMRzVo
+2011-04-29 15:44:43,546 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-145-XPx4x3uoySGzf7LMRzVo&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:43,546 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:43,546 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:43,812 [10] ERROR Error [(null)] - ticketST-146-REMTsPdzY170H4uWCt93
+2011-04-29 15:44:43,812 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-146-REMTsPdzY170H4uWCt93&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:43,828 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:43,828 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:44,093 [10] ERROR Error [(null)] - ticketST-147-jaQigqPp5jEL2cTWM0Qw
+2011-04-29 15:44:44,093 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-147-jaQigqPp5jEL2cTWM0Qw&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:44,093 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:44,093 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:44,406 [10] ERROR Error [(null)] - ticketST-148-IcNvxClyBpbclWPwHKJe
+2011-04-29 15:44:44,406 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-148-IcNvxClyBpbclWPwHKJe&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:44,406 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:44,406 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:44,687 [10] ERROR Error [(null)] - ticketST-149-3IznVaNXLby1CNMUkgpy
+2011-04-29 15:44:44,687 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-149-3IznVaNXLby1CNMUkgpy&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:44,687 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:44,687 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:44,953 [10] ERROR Error [(null)] - ticketST-150-lpCVZfdeUo0BMV1yegkL
+2011-04-29 15:44:44,953 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-150-lpCVZfdeUo0BMV1yegkL&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:44,968 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:44,968 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:45,234 [10] ERROR Error [(null)] - ticketST-151-uVXbyHSYeZtMHc4U06E3
+2011-04-29 15:44:45,234 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-151-uVXbyHSYeZtMHc4U06E3&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:45,234 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:45,234 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:45,500 [10] ERROR Error [(null)] - ticketST-152-jKGeqFVkYQrF4Bd5vx4R
+2011-04-29 15:44:45,515 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-152-jKGeqFVkYQrF4Bd5vx4R&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:45,515 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:45,515 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:45,781 [10] ERROR Error [(null)] - ticketST-153-varCq0o2YaQVwRayKEcQ
+2011-04-29 15:44:45,781 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-153-varCq0o2YaQVwRayKEcQ&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:45,781 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:45,781 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:46,046 [10] ERROR Error [(null)] - ticketST-154-bWcTawDtNVk10Wale0PV
+2011-04-29 15:44:46,046 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-154-bWcTawDtNVk10Wale0PV&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:46,062 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:46,062 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:46,328 [4] ERROR Error [(null)] - ticketST-155-NDDASiP7E9Ei2IAhPfwZ
+2011-04-29 15:44:46,328 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-155-NDDASiP7E9Ei2IAhPfwZ&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:46,328 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:46,328 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:46,593 [10] ERROR Error [(null)] - ticketST-156-5HmbWFdtzZvgpl5koCCz
+2011-04-29 15:44:46,593 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-156-5HmbWFdtzZvgpl5koCCz&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:46,593 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:46,593 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:46,859 [4] ERROR Error [(null)] - ticketST-157-Cy03DeP2UtAT6ZJHCVMY
+2011-04-29 15:44:46,859 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-157-Cy03DeP2UtAT6ZJHCVMY&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:46,875 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:46,875 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:47,140 [10] ERROR Error [(null)] - ticketST-158-eCpu6sezYqJLj99s1TKW
+2011-04-29 15:44:47,140 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-158-eCpu6sezYqJLj99s1TKW&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:47,140 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:47,140 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:47,406 [4] ERROR Error [(null)] - ticketST-159-aLvMdvdKbiFy0Fo6pGDc
+2011-04-29 15:44:47,421 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-159-aLvMdvdKbiFy0Fo6pGDc&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:47,421 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:47,421 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:47,687 [10] ERROR Error [(null)] - ticketST-160-WrzdtwlJx417bpy3jkcb
+2011-04-29 15:44:47,687 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-160-WrzdtwlJx417bpy3jkcb&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:47,703 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:47,703 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:47,968 [10] ERROR Error [(null)] - ticketST-161-KzHlrbb1VXbRtVhq9WYG
+2011-04-29 15:44:47,968 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-161-KzHlrbb1VXbRtVhq9WYG&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:47,968 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:47,968 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:48,265 [4] ERROR Error [(null)] - ticketST-162-dloBIv0bBQOmD4uxk2B6
+2011-04-29 15:44:48,265 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-162-dloBIv0bBQOmD4uxk2B6&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:48,265 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:48,265 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:48,531 [10] ERROR Error [(null)] - ticketST-163-6SzWo4cbrdiTFKtI1feH
+2011-04-29 15:44:48,531 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-163-6SzWo4cbrdiTFKtI1feH&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:48,531 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:48,531 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:48,812 [4] ERROR Error [(null)] - ticketST-164-799f51NOPGQdoPDB7B4r
+2011-04-29 15:44:48,812 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-164-799f51NOPGQdoPDB7B4r&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:48,812 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:48,812 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:49,062 [10] ERROR Error [(null)] - ticketST-165-yg4xRfyiT0KDGjQ4IKhw
+2011-04-29 15:44:49,062 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-165-yg4xRfyiT0KDGjQ4IKhw&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:49,078 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:49,078 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:49,343 [10] ERROR Error [(null)] - ticketST-166-4RArmnVGMLHVafwYpxa6
+2011-04-29 15:44:49,343 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-166-4RArmnVGMLHVafwYpxa6&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:49,343 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:49,343 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:49,609 [10] ERROR Error [(null)] - ticketST-167-HsgJvhgzCoAUGD6GBV4n
+2011-04-29 15:44:49,609 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-167-HsgJvhgzCoAUGD6GBV4n&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:49,625 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:49,625 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:49,890 [4] ERROR Error [(null)] - ticketST-168-ChfxWB4dCg6PmFjb3xFj
+2011-04-29 15:44:49,890 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-168-ChfxWB4dCg6PmFjb3xFj&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:49,890 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:49,890 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:50,156 [10] ERROR Error [(null)] - ticketST-169-B2dIx5LBgQOlOcpyfU5h
+2011-04-29 15:44:50,156 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-169-B2dIx5LBgQOlOcpyfU5h&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:50,171 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:50,171 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:50,437 [4] ERROR Error [(null)] - ticketST-170-okcr1It6wNiCfZX6SM0o
+2011-04-29 15:44:50,437 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-170-okcr1It6wNiCfZX6SM0o&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:50,437 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:50,437 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:50,703 [4] ERROR Error [(null)] - ticketST-171-WibJOMQ5uKjouHAeRAlq
+2011-04-29 15:44:50,703 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-171-WibJOMQ5uKjouHAeRAlq&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:50,718 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:50,718 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:50,984 [4] ERROR Error [(null)] - ticketST-172-MKqjlxi2amtEZ3ffIMhx
+2011-04-29 15:44:50,984 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-172-MKqjlxi2amtEZ3ffIMhx&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:50,984 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:50,984 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:51,250 [4] ERROR Error [(null)] - ticketST-173-I9TUdl6BEh3nlHxrmNI4
+2011-04-29 15:44:51,250 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-173-I9TUdl6BEh3nlHxrmNI4&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:51,250 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:51,250 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:51,515 [10] ERROR Error [(null)] - ticketST-174-QEVFqZMRtdr9GJaEnRGC
+2011-04-29 15:44:51,515 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-174-QEVFqZMRtdr9GJaEnRGC&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:51,531 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:51,531 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:51,812 [4] ERROR Error [(null)] - ticketST-175-qGhhVezFc6FjGVzztcq4
+2011-04-29 15:44:51,812 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-175-qGhhVezFc6FjGVzztcq4&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:51,812 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:51,812 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:52,093 [4] ERROR Error [(null)] - ticketST-176-ZjvTuLrOcT6JJvfqyPPW
+2011-04-29 15:44:52,093 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-176-ZjvTuLrOcT6JJvfqyPPW&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:52,093 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:52,093 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:52,359 [10] ERROR Error [(null)] - ticketST-177-QHSI3x0ECpiCSJ6korVV
+2011-04-29 15:44:52,359 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-177-QHSI3x0ECpiCSJ6korVV&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:52,375 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:52,375 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:52,625 [4] ERROR Error [(null)] - ticketST-178-7bfre5WGyCdd7QOVeSR2
+2011-04-29 15:44:52,625 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-178-7bfre5WGyCdd7QOVeSR2&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:52,640 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:52,640 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:52,906 [10] ERROR Error [(null)] - ticketST-179-yltu4G0jSVfpIJAC2vhL
+2011-04-29 15:44:52,906 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-179-yltu4G0jSVfpIJAC2vhL&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:52,906 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:52,921 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:53,203 [10] ERROR Error [(null)] - ticketST-180-kAQ7xpJZoozBFnk7ewXf
+2011-04-29 15:44:53,203 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-180-kAQ7xpJZoozBFnk7ewXf&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:53,203 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:53,203 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:53,468 [4] ERROR Error [(null)] - ticketST-181-buRRNhOZ4ORYC7remhlU
+2011-04-29 15:44:53,468 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-181-buRRNhOZ4ORYC7remhlU&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:53,484 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:53,484 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:53,750 [4] ERROR Error [(null)] - ticketST-182-uTWubXf4wo0UUDnuyh7G
+2011-04-29 15:44:53,750 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-182-uTWubXf4wo0UUDnuyh7G&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:53,765 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:53,765 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:54,031 [4] ERROR Error [(null)] - ticketST-183-sR5AXW74Vc2i4E3ajELo
+2011-04-29 15:44:54,031 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-183-sR5AXW74Vc2i4E3ajELo&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:54,031 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:54,031 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:54,296 [4] ERROR Error [(null)] - ticketST-184-bDvxDLaxezy1QzeaIkRX
+2011-04-29 15:44:54,296 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-184-bDvxDLaxezy1QzeaIkRX&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:54,296 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:54,296 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:54,562 [4] ERROR Error [(null)] - ticketST-185-mpJ3ieHxkNlt7lXczcRn
+2011-04-29 15:44:54,562 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-185-mpJ3ieHxkNlt7lXczcRn&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:54,562 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:54,562 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:54,828 [10] ERROR Error [(null)] - ticketST-186-NriuIOt7XttiHa7jXdtu
+2011-04-29 15:44:54,828 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-186-NriuIOt7XttiHa7jXdtu&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:54,843 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:54,843 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:55,109 [10] ERROR Error [(null)] - ticketST-187-ZbGpaCkTadVGBXfYqgcJ
+2011-04-29 15:44:55,109 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-187-ZbGpaCkTadVGBXfYqgcJ&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:55,109 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:55,109 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:55,375 [10] ERROR Error [(null)] - ticketST-188-0Y6bW2BeeTrYjP6cLEkE
+2011-04-29 15:44:55,375 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-188-0Y6bW2BeeTrYjP6cLEkE&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:55,375 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:55,375 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:55,656 [10] ERROR Error [(null)] - ticketST-189-QDsLeeFigwngxPyISPF1
+2011-04-29 15:44:55,656 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-189-QDsLeeFigwngxPyISPF1&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:55,656 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:55,656 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:55,937 [4] ERROR Error [(null)] - ticketST-190-dbPQO1Crvgwpb2IJ7EVx
+2011-04-29 15:44:55,937 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-190-dbPQO1Crvgwpb2IJ7EVx&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:55,953 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:55,953 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:56,218 [4] ERROR Error [(null)] - ticketST-191-qTFe9Nmd6hkqMLrgGsqa
+2011-04-29 15:44:56,218 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-191-qTFe9Nmd6hkqMLrgGsqa&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:56,234 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:56,234 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:56,562 [10] ERROR Error [(null)] - ticketST-192-enYALO9q5ZzMEUXW5IFs
+2011-04-29 15:44:56,578 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-192-enYALO9q5ZzMEUXW5IFs&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:56,578 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:56,578 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:56,843 [10] ERROR Error [(null)] - ticketST-193-QlcHZeLTjCtY2SDQRJ7T
+2011-04-29 15:44:56,843 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-193-QlcHZeLTjCtY2SDQRJ7T&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:56,859 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:56,859 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:57,125 [4] ERROR Error [(null)] - ticketST-194-f59FN4Q3JMPQdN4NihOc
+2011-04-29 15:44:57,125 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-194-f59FN4Q3JMPQdN4NihOc&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:57,125 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:57,125 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:57,390 [10] ERROR Error [(null)] - ticketST-195-6QW43jQgIWML3savoqiZ
+2011-04-29 15:44:57,390 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-195-6QW43jQgIWML3savoqiZ&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:57,406 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:57,406 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:57,671 [4] ERROR Error [(null)] - ticketST-196-WlQxr6BTqb4BBzekQmZF
+2011-04-29 15:44:57,671 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-196-WlQxr6BTqb4BBzekQmZF&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:57,671 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:57,671 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:57,937 [10] ERROR Error [(null)] - ticketST-197-th5a7fsPppU0fLXJM1yj
+2011-04-29 15:44:57,937 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-197-th5a7fsPppU0fLXJM1yj&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:57,953 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:57,953 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:58,234 [4] ERROR Error [(null)] - ticketST-198-WHgxxYJ53vmgMW3JRIsO
+2011-04-29 15:44:58,234 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-198-WHgxxYJ53vmgMW3JRIsO&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:58,234 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:58,234 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:58,500 [10] ERROR Error [(null)] - ticketST-199-ewPss0uAGloxc4JlwNJf
+2011-04-29 15:44:58,500 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-199-ewPss0uAGloxc4JlwNJf&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:58,515 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:58,515 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:58,781 [10] ERROR Error [(null)] - ticketST-200-4XdaEoSLG41d5MQtbf9U
+2011-04-29 15:44:58,781 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-200-4XdaEoSLG41d5MQtbf9U&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:58,781 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:58,781 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:59,046 [4] ERROR Error [(null)] - ticketST-201-esURym9HPnpBG4eq6V6H
+2011-04-29 15:44:59,046 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-201-esURym9HPnpBG4eq6V6H&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:59,062 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:59,062 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:59,328 [10] ERROR Error [(null)] - ticketST-202-zNOBfV1eNApmbHsF2FCa
+2011-04-29 15:44:59,328 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-202-zNOBfV1eNApmbHsF2FCa&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:59,328 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:59,328 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:59,593 [10] ERROR Error [(null)] - ticketST-203-eNvvsY17u2hd2Zd1KVR1
+2011-04-29 15:44:59,593 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-203-eNvvsY17u2hd2Zd1KVR1&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:59,593 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:59,593 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:44:59,859 [4] ERROR Error [(null)] - ticketST-204-xhBwSPPefoOFYTG3FWha
+2011-04-29 15:44:59,859 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-204-xhBwSPPefoOFYTG3FWha&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:44:59,875 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:44:59,875 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:00,109 [4] ERROR Error [(null)] - ticketST-205-NE7Fzc7LQ95nflr5AV3q
+2011-04-29 15:45:00,125 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-205-NE7Fzc7LQ95nflr5AV3q&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:00,125 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:00,125 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:00,390 [10] ERROR Error [(null)] - ticketST-206-fP2exQOoo4z02ijjvWgS
+2011-04-29 15:45:00,390 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-206-fP2exQOoo4z02ijjvWgS&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:00,406 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:00,406 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:00,671 [10] ERROR Error [(null)] - ticketST-207-0oCVJbeYoCuaRYKCIddW
+2011-04-29 15:45:00,671 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-207-0oCVJbeYoCuaRYKCIddW&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:00,671 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:00,671 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:00,937 [4] ERROR Error [(null)] - ticketST-208-2KOfYGw1WWF6ZWescHD5
+2011-04-29 15:45:00,937 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-208-2KOfYGw1WWF6ZWescHD5&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:00,937 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:00,937 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:01,203 [10] ERROR Error [(null)] - ticketST-209-SQ9yVNEsbUejNqUyQChL
+2011-04-29 15:45:01,203 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-209-SQ9yVNEsbUejNqUyQChL&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:01,218 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:01,218 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:01,468 [4] ERROR Error [(null)] - ticketST-210-J7Z7ErpSeDUuO7djxdbV
+2011-04-29 15:45:01,484 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-210-J7Z7ErpSeDUuO7djxdbV&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:01,484 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:01,484 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:01,750 [10] ERROR Error [(null)] - ticketST-211-bcQKK2DByfi2Y47WcBqi
+2011-04-29 15:45:01,750 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-211-bcQKK2DByfi2Y47WcBqi&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:01,750 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:01,765 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:02,031 [4] ERROR Error [(null)] - ticketST-212-kqdlq62EK9MZ9vYrjtK0
+2011-04-29 15:45:02,031 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-212-kqdlq62EK9MZ9vYrjtK0&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:02,031 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:02,031 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:02,281 [10] ERROR Error [(null)] - ticketST-213-frw2fQ6moQZtBrVkelhl
+2011-04-29 15:45:02,296 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-213-frw2fQ6moQZtBrVkelhl&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:02,296 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:02,296 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:02,562 [4] ERROR Error [(null)] - ticketST-214-cPZC1Cg1bV206cfqfPq2
+2011-04-29 15:45:02,562 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-214-cPZC1Cg1bV206cfqfPq2&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:02,562 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:02,562 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:02,828 [10] ERROR Error [(null)] - ticketST-215-v5iuyLwSP2WD4wPQikgi
+2011-04-29 15:45:02,828 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-215-v5iuyLwSP2WD4wPQikgi&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:02,843 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:02,843 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:03,093 [10] ERROR Error [(null)] - ticketST-216-xcWQYrXAuiSkOLVK1COc
+2011-04-29 15:45:03,093 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-216-xcWQYrXAuiSkOLVK1COc&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:03,109 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:03,109 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:03,375 [4] ERROR Error [(null)] - ticketST-217-QEVMp0aFQrS6jLGMlcOq
+2011-04-29 15:45:03,375 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-217-QEVMp0aFQrS6jLGMlcOq&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:03,375 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:03,375 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:03,640 [4] ERROR Error [(null)] - ticketST-218-k3FZvstNJP7iXh3GZ3i3
+2011-04-29 15:45:03,656 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-218-k3FZvstNJP7iXh3GZ3i3&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:03,656 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:03,656 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:03,921 [10] ERROR Error [(null)] - ticketST-219-LvEaMk9DrlmQNJdzf5fz
+2011-04-29 15:45:03,921 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-219-LvEaMk9DrlmQNJdzf5fz&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:03,937 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:03,937 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:04,203 [4] ERROR Error [(null)] - ticketST-220-X9dlTvAIjjpXXyZrfcXL
+2011-04-29 15:45:04,203 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-220-X9dlTvAIjjpXXyZrfcXL&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:04,203 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:04,203 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:04,468 [4] ERROR Error [(null)] - ticketST-221-oEYpEB5UHWQKFEzW5mti
+2011-04-29 15:45:04,468 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-221-oEYpEB5UHWQKFEzW5mti&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:04,468 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:04,468 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:04,734 [4] ERROR Error [(null)] - ticketST-222-xeBTTwKYI2r57ejLJ95b
+2011-04-29 15:45:04,734 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-222-xeBTTwKYI2r57ejLJ95b&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:04,734 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:04,734 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:05,031 [10] ERROR Error [(null)] - ticketST-223-zHwRThDfHTx0OWEp17g1
+2011-04-29 15:45:05,031 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-223-zHwRThDfHTx0OWEp17g1&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:05,031 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:05,031 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:05,312 [4] ERROR Error [(null)] - ticketST-224-Wk3Nrh13pU10ipmtdZUI
+2011-04-29 15:45:05,312 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-224-Wk3Nrh13pU10ipmtdZUI&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:05,312 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:05,312 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:05,593 [4] ERROR Error [(null)] - ticketST-225-KyzUteGP25RYTY2bqTBs
+2011-04-29 15:45:05,593 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-225-KyzUteGP25RYTY2bqTBs&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:05,593 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:05,593 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:05,875 [4] ERROR Error [(null)] - ticketST-226-vdrAEilO14awB3frUWEM
+2011-04-29 15:45:05,875 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-226-vdrAEilO14awB3frUWEM&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:05,875 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:05,875 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:06,156 [10] ERROR Error [(null)] - ticketST-227-SZT4guVafW3TBWNxbeut
+2011-04-29 15:45:06,156 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-227-SZT4guVafW3TBWNxbeut&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:06,156 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:06,156 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:06,421 [10] ERROR Error [(null)] - ticketST-228-TESWMc3wumfNmKkDQvMN
+2011-04-29 15:45:06,437 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-228-TESWMc3wumfNmKkDQvMN&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:06,437 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:06,437 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:06,734 [10] ERROR Error [(null)] - ticketST-229-EzlAr7ahkswSBm9iDUPs
+2011-04-29 15:45:06,734 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-229-EzlAr7ahkswSBm9iDUPs&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:06,750 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:06,750 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:07,015 [4] ERROR Error [(null)] - ticketST-230-qcpC1QKHeqIbZJDepiMm
+2011-04-29 15:45:07,015 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-230-qcpC1QKHeqIbZJDepiMm&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:07,031 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:07,031 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:07,312 [10] ERROR Error [(null)] - ticketST-231-pX3WT7e2OOwAVA44jeiy
+2011-04-29 15:45:07,312 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-231-pX3WT7e2OOwAVA44jeiy&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:07,312 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:07,312 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:07,593 [10] ERROR Error [(null)] - ticketST-232-MvQVWygst3estsQzkifs
+2011-04-29 15:45:07,593 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-232-MvQVWygst3estsQzkifs&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:07,593 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:07,593 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:07,875 [10] ERROR Error [(null)] - ticketST-233-kQfrR6OJKbdgaFdngdu0
+2011-04-29 15:45:07,875 [10] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-233-kQfrR6OJKbdgaFdngdu0&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:07,875 [10] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:07,875 [10] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:08,156 [4] ERROR Error [(null)] - ticketST-234-wqFNVB9GVwmvFaOxclMn
+2011-04-29 15:45:08,156 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-234-wqFNVB9GVwmvFaOxclMn&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:08,156 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:08,156 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:08,421 [4] ERROR Error [(null)] - ticketST-235-fjXYjpLyMfnpPGFO4mGm
+2011-04-29 15:45:08,421 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-235-fjXYjpLyMfnpPGFO4mGm&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:08,421 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:08,421 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:45:08,703 [4] ERROR Error [(null)] - ticketST-236-9Nip19qLPBOldtBnaEaB
+2011-04-29 15:45:08,703 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-236-9Nip19qLPBOldtBnaEaB&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:45:08,703 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:45:08,703 [4] ERROR Error [(null)] - usernametest
+2011-04-29 15:46:53,000 [4] ERROR Error [(null)] - ticketST-237-qXQYxQWkBihc5HtxWaG9
+2011-04-29 15:46:53,000 [4] ERROR Error [(null)] - url:https://cas.chinasafety.gov.cn:8443/cas/proxyValidate?ticket=ST-237-qXQYxQWkBihc5HtxWaG9&service=http://localhost:2600/portal/Handler/CASUser.ashx
+2011-04-29 15:46:53,015 [4] ERROR Error [(null)] - userxml
+<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>test</cas:user>
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>
+2011-04-29 15:46:53,015 [4] ERROR Error [(null)] - usernametest

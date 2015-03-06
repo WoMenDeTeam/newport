@@ -1,0 +1,81 @@
+﻿<%@ WebHandler Language="C#" Class="GetSurveyData" %>
+
+using System;
+using System.Web;
+using System.Collections.Generic;
+using Demo.BLL;
+using Demo.Util;
+using Demo.DAL;
+using System.Text;
+
+public class GetSurveyData : IHttpHandler, System.Web.SessionState.IRequiresSessionState
+{    
+    public void ProcessRequest (HttpContext context) {
+        //object SurveyData = HttpContext.Current.Session["SurveyData"];
+        //if (SurveyData == null)
+        //{
+            StringBuilder strWhere = new StringBuilder();
+            Dictionary<string, int> keylist = new Dictionary<string, int>();
+            strWhere.Append(" COLUMNSTATUS = 1 AND ISDIS = 1");
+            int count = 1;
+            foreach (string key in context.Request.Form.Keys)
+            {
+                string parentCate = context.Request.Form[key];
+                if (!string.IsNullOrEmpty(parentCate))
+                {
+                    if (count == 1)
+                    {
+                        strWhere.Append(" AND ");
+                    }
+                    else {
+                        strWhere.Append(" OR ");
+                    }                    
+                    strWhere.AppendFormat(" PARENTID={0}", parentCate);                   
+                    keylist.Add(key, Convert.ToInt32(parentCate));
+                }
+                count++;
+            }
+            if (strWhere.Length > 0)
+            {
+                strWhere.Append(" order by COLUMNORDER");
+                IList<COLUMNDEFEntity> ColumnList = ColumnFacade.GetList(strWhere.ToString());
+                StringBuilder jsonstr = new StringBuilder();
+                jsonstr.Append("{");
+                foreach (string key in keylist.Keys)
+                {
+                    jsonstr.AppendFormat("{0},", GetJsonStr(key, keylist[key], ColumnList));
+                }
+                jsonstr.Append("\"SuccessCode\":1}");
+                //HttpContext.Current.Session["SurveyData"] = jsonstr.ToString();
+                context.Response.Write(jsonstr.ToString());
+            }
+        //}
+        //else
+        //{
+        //    string jsonstr = (string)SurveyData;
+        //    context.Response.Write(jsonstr);
+        //}
+    }
+
+    private string GetJsonStr(string key, int parentcate, IList<COLUMNDEFEntity> ColumnList)
+    {
+        StringBuilder jsonstr = new StringBuilder();
+        jsonstr.AppendFormat("\"{0}\":", key);
+        jsonstr.Append("{");
+        foreach (COLUMNDEFEntity entity in ColumnList)
+        {
+            if (entity.PARENTID.Value == parentcate) {
+                jsonstr.AppendFormat("\"{0}\":\"{1}\",", entity.ID, EncodeByEscape.GetEscapeStr(entity.COLUMNNAME));
+            }
+        }
+        jsonstr.Append("\"SuccessCode\":1}");
+        return jsonstr.ToString();
+    }
+ 
+    public bool IsReusable {
+        get {
+            return false;
+        }
+    }
+
+}

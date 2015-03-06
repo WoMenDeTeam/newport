@@ -1,0 +1,207 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>舆情报告列表</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/jquery.query.js"></script>
+    <script type="text/javascript" src="js/Pager.js"></script>
+    <script type="text/javascript" src="js/My97DatePicker/WdatePicker.js"></script>
+    <script type="text/javascript" src="js/inputcue.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+    <script type="text/javascript" src="js/RepostList.js"></script>
+</head>
+<body>
+    <!-------------------------　顶　部　开　始　------------------------->
+    <div class="header">
+        <div class="wraper">
+            <!----------//　Logo 开始　//---------->
+            <div class="logo">
+                <a href="index.html" title="首页"></a>
+            </div>
+            <!----------//　Logo 结束　//---------->
+            <!----------//　用户开始　//---------->
+            <div class="user">
+                <a class="btn_logout" href="Handler/LoginOut.ashx" target="_self">退出</a> <span class="user_info">
+                    您好，<b class="color_2"></b> | 今天是<code class="color_1"></code>年<code class="color_1"></code>月<code
+                        class="color_1"></code>日<code class="color_1"></code></span>
+            </div>
+            <!----------//　用户结束　//---------->
+            <div class="clear">
+            </div>
+            <!----------//　导航开始　//---------->
+            <div class="nav">
+                <ul>
+                    <li><a href="javascript:void(null);" title="">
+                        <img src="img/nav_1.gif" alt="" /></a>
+                        <div class="subnav" id="subnav_1">
+                            <ul>
+                                <!--- {数据绑定}开始 --->
+                                <li><a href="about.html" target="_blank" title="">煤矿</a></li>
+                                <li><a href="about.html" target="_blank" title="">非煤矿山</a></li>
+                                <li><a href="about.html" target="_blank" title="">危险化学品</a></li>
+                                <li><a href="about.html" target="_blank" title="">烟花爆竹</a></li>
+                                <li><a href="about.html" target="_blank" title="">道路交通</a></li>
+                                <!--- {数据绑定}结束 --->
+                                <li><a class="btn_more" href="about.html" target="_blank" title="">更多</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="javascript:void(null);" title="">
+                        <img src="img/nav_2.gif" alt="" /></a>
+                        <div class="subnav" id="subnav_2">
+                            <ul>
+                                <!--- {数据绑定}开始 --->
+                                <li><a href="about.html" target="_blank" title="">山西</a></li>
+                                <li><a href="about.html" target="_blank" title="">湖南</a></li>
+                                <li><a href="about.html" target="_blank" title="">江西</a></li>
+                                <li><a href="about.html" target="_blank" title="">广东</a></li>
+                                <li><a href="about.html" target="_blank" title="">四川</a></li>
+                                <!--- {数据绑定}结束 --->
+                                <li><a class="btn_more" href="about.html" target="_blank" title="">更多</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="javascript:void(null);" title="">
+                        <img src="img/nav_3.gif" alt="" /></a>
+                        <div class="subnav" id="subnav_3">
+                            <ul>
+                                <!--- {数据绑定}开始 --->
+                                <li><a href="about.html" target="_blank" title="">舆情日报</a></li>
+                                <li><a href="about.html" target="_blank" title="">舆情周报</a></li>
+                                <li><a href="about.html" target="_blank" title="">舆情趋势图</a></li>
+                                <!--- {数据绑定}结束 --->
+                                <li><a class="btn_more" href="about.html" target="_blank" title="">更多</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="javascript:void(null);" title="">
+                        <img src="img/nav_4.gif" alt="" /></a>
+                        <div class="subnav" id="subnav_4">
+                            <ul>
+                                <!--- {数据绑定}开始 --->
+                                <li><a href="about.html" target="_blank" title="">舆情专题</a></li>
+                                <li><a href="about.html" target="_blank" title="">舆情预警信息</a></li>
+                                <li><a href="about.html" target="_blank" title="">热点关键字排行</a></li>
+                                <!--- {数据绑定}结束 --->
+                                <li><a class="btn_more" href="about.html" target="_blank" title="">更多</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a id="subnav_index" href="index.html" target="_blank" title="返回首页">
+                        <img src="img/nav_5.gif" alt="" /></a> </li>
+                </ul>
+                <div class="clear">
+                </div>
+            </div>
+            <!----------//　导航结束　//---------->
+            <!----------//　搜索开始　//---------->
+            <div class="search">
+                <span class="search_line_2"></span><span class="search_line_1"></span>
+                <!--- 简单搜索开始 --->
+                <ul class="form_list">
+                    <li><span class="name"><b class="color_2">简单搜索：</b></span> <span class="input">
+                        <input id="keyword" style="width: 573px;" type="text" value="" /></span><a class="btn_more"
+                            href="javascript:void(null);" id="look_hot_keyword"><b>热点关键词</b></a> <a class="btn_super"
+                                href="search.html" target="_blank"><b>高级搜索</b></a> <a class="btn_search" id="btn_search"
+                                    href="javascript:void(null);"></a></li>
+                </ul>
+                <!--- 简单搜索结束 --->
+                <div class="clear">
+                </div>
+                <span class="search_line_1"></span><span class="search_line_2"></span>
+            </div>
+            <!----------//　搜索结束　//---------->
+        </div>
+    </div>
+    <!-------------------------　中　部　开　始　------------------------->
+    <div class="main">
+        <div class="wraper">
+            <!----------//　推荐专题开始　//---------->
+            <div class="subcontent skin_2 left" style="display: none;">
+                <h1>
+                    <b class="color_1">最热专题</b></h1>
+                <ul class="news_list">
+                    <!--- {数据绑定}开始 --->
+                    <li><a href="#"><span class="text">湖南省常德市临澧县合口镇出口花</span><span class="date">2010-11-30
+                        09:18</span></a></li>
+                    <li><a href="#"><span class="text">河北蔚县瞒报严重矿难</span><span class="date">2010-11-30 09:18</span></a>
+                    </li>
+                    <li><a href="#"><span class="text">黑龙江伊春市鞭炮厂爆炸事故</span><span class="date">2010-11-30
+                        09:18</span></a> </li>
+                    <li><a href="#"><span class="text">平顶山卫东区兴东二矿"6.21"特别事件</span><span class="date">2010-11-30
+                        09:18</span></a> </li>
+                    <li><a href="#"><span class="text">平顶山卫东区兴东二矿"6.21"特别事件</span><span class="date">2010-11-30
+                        09:18</span></a> </li>
+                    <!--- {数据绑定}结束 --->
+                </ul>
+            </div>
+            <!----------//　全部专题结束　//---------->
+            <!----------//　专题列表开始　//---------->
+            <div class="content list">
+                <div class="title">
+                    <a class="color_7" href="index.html">首页</a>&gt;<b>舆情报告列表</b>
+                    <ul class="form_list">
+                        <li><span class="name">选择舆情报告类型：</span> <span>
+                            <select id="report_type">
+                                <option value="-1">全部</option>
+                                <option value="1">舆情周报</option>
+                                <option value="2">舆情专报</option>
+                                <option value="4">事故</option>
+                                <option value="3">其他报告</option>
+                            </select>
+                        </span><span class="name">选择生成日期：</span> <span class="input">
+                            <input type="text" id="start_time" onfocus="WdatePicker({isShowClear:false,readOnly:true,dateFmt:'yyyy-MM-dd'})" /></span>
+                            <span class="name">- </span><span class="input">
+                                <input type="text" id="end_time" onfocus="WdatePicker({isShowClear:false,readOnly:true,dateFmt:'yyyy-MM-dd'})" /></span>
+                            <span class="input">
+                                <input type="button" id="btn_look_result" value="查看" /></span> </li>
+                    </ul>
+                </div>
+                <div class="order order_2">
+                    <ul class="news_list" id="SearchResult">
+                        <!--- {数据绑定}开始 --->
+                        <!--<li><a href="#"><span class="text">湖南省常德市临澧县合口镇出口花</span><span class="date">2010-11-30 09:18</span></a></li>
+          <li><a href="#"><span class="text">河北蔚县瞒报严重矿难</span><span class="date">2010-11-30 09:18</span></a>
+            </li>
+          <li><a href="#"><span class="text">黑龙江伊春市鞭炮厂爆炸事故</span><span class="date">2010-11-30 09:18</span></a>
+            </li>
+          <li> <a href="#"><span class="text">平顶山卫东区兴东二矿"6.21"特别事件</span><span class="date">2010-11-30 09:18</span></a>
+            </li>
+          <li><a href="#"><span class="text">平顶山卫东区兴东二矿"6.21"特别事件</span><span class="date">2010-11-30 09:18</span></a>
+            </li>-->
+                        <!--- {数据绑定}结束 --->
+                    </ul>
+                    <div class="clear">
+                    </div>
+                </div>
+                <div class="page" id="PagerList">
+                    <!--<a class="btn_page">上一页</a>
+        <b>1</b>
+        <a>2</a>
+        <a>3</a>
+        <a>4</a>
+        <a>5</a>
+        <a class="btn_page">下一页</a>-->
+                </div>
+            </div>
+            <!----------//　专题列表结束　//---------->
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <!-------------------------　中　部　结　束　------------------------->
+    <div class="footer">
+        <div class="wraper">
+            <!----------//　版权信息开始　//---------->
+            <div class="copyright" id="footer_info">
+            </div>
+            <!----------//　版权信息结束　//---------->
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <!-------------------------　底　部　结　束　------------------------->
+</body>
+</html>

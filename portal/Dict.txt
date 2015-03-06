@@ -1,0 +1,1 @@
+﻿http://60.28.9.171:9000/action=query&text=*&fieldtext=MATCH%7Bbbs%7D:MYSRCTYPE&totalresults=true&databasematch=safety&sort=Date&print=Fields&PrintFields=DREDATE,MYSITENAME

@@ -1,0 +1,265 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>安全生产事故网络信息事故调查报告</title>
+    <!--[if IE]><script language="javascript" type="text/javascript" src="js/excanvas.min.js"></script><![endif]-->
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/jquery.query.js"></script>
+    <script type="text/javascript" src="js/Pager.js"></script>
+    <script type="text/javascript" src="js/My97DatePicker/WdatePicker.js"></script>
+    <script type="text/javascript" src="js/inputcue.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+    <script src="js/AccidentReportList.js" type="text/javascript"></script>
+</head>
+<body>
+    <!-------------------------　顶　部　开　始　------------------------->
+    <div class="header">
+        <div class="wraper">
+            <!----------//　Logo 开始　//---------->
+            <div class="logo">
+                <a href="index.html" title="首页"></a>
+            </div>
+            <!----------//　Logo 结束　//---------->
+            <!----------//　用户开始　//---------->
+            <div class="user">
+                <a class="btn_logout" href="Handler/LoginOut.ashx" target="_self">退出</a> <span class="user_info">
+                    您好，<b class="color_2"></b> | 今天是<code class="color_1"></code>年<code class="color_1"></code>月<code
+                        class="color_1"></code>日<code class="color_1"></code></span>
+            </div>
+            <!----------//　用户结束　//---------->
+            <div class="clear">
+            </div>
+            <!----------//　导航开始　//---------->
+            <div class="nav">
+                <ul>
+                    <li><a href="javascript:void(null);" title="">
+                        <img src="img/nav_1.gif" alt="" /></a>
+                        <div class="subnav" id="subnav_1">
+                            <ul>
+                                <!--- {数据绑定}开始 --->
+                                <li><a href="about.html" target="_blank" title="">煤矿</a></li>
+                                <li><a href="about.html" target="_blank" title="">非煤矿山</a></li>
+                                <li><a href="about.html" target="_blank" title="">危险化学品</a></li>
+                                <li><a href="about.html" target="_blank" title="">烟花爆竹</a></li>
+                                <li><a href="about.html" target="_blank" title="">道路交通</a></li>
+                                <!--- {数据绑定}结束 --->
+                                <li><a class="btn_more" href="about.html" target="_blank" title="">更多</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="javascript:void(null);" title="">
+                        <img src="img/nav_2.gif" alt="" /></a>
+                        <div class="subnav" id="subnav_2">
+                            <ul>
+                                <!--- {数据绑定}开始 --->
+                                <li><a href="about.html" target="_blank" title="">山西</a></li>
+                                <li><a href="about.html" target="_blank" title="">湖南</a></li>
+                                <li><a href="about.html" target="_blank" title="">江西</a></li>
+                                <li><a href="about.html" target="_blank" title="">广东</a></li>
+                                <li><a href="about.html" target="_blank" title="">四川</a></li>
+                                <!--- {数据绑定}结束 --->
+                                <li><a class="btn_more" href="about.html" target="_blank" title="">更多</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="javascript:void(null);" title="">
+                        <img src="img/nav_3.gif" alt="" /></a>
+                        <div class="subnav" id="subnav_3">
+                            <ul>
+                                <!--- {数据绑定}开始 --->
+                                <li><a href="about.html" target="_blank" title="">舆情日报</a></li>
+                                <li><a href="about.html" target="_blank" title="">舆情周报</a></li>
+                                <li><a href="about.html" target="_blank" title="">舆情趋势图</a></li>
+                                <!--- {数据绑定}结束 --->
+                                <li><a class="btn_more" href="about.html" target="_blank" title="">更多</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="javascript:void(null);" title="">
+                        <img src="img/nav_4.gif" alt="" /></a>
+                        <div class="subnav" id="subnav_4">
+                            <ul>
+                                <!--- {数据绑定}开始 --->
+                                <li><a href="about.html" target="_blank" title="">舆情专题</a></li>
+                                <li><a href="about.html" target="_blank" title="">舆情预警信息</a></li>
+                                <li><a href="about.html" target="_blank" title="">热点关键字排行</a></li>
+                                <!--- {数据绑定}结束 --->
+                                <li><a class="btn_more" href="about.html" target="_blank" title="">更多</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a id="subnav_index" href="index.html" target="_blank" title="返回首页">
+                        <img src="img/nav_5.gif" alt="" /></a> </li>
+                </ul>
+                <div class="clear">
+                </div>
+            </div>
+            <!----------//　导航结束　//---------->
+            <!----------//　搜索开始　//---------->
+            <div class="search">
+                <span class="search_line_2"></span><span class="search_line_1"></span>
+                <!--- 简单搜索开始 --->
+                <ul class="form_list">
+                    <li><span class="name"><b class="color_2">简单搜索：</b></span> <span class="input">
+                        <input id="keyword" style="width: 573px;" type="text" value="" /></span><a class="btn_more"
+                            href="javascript:void(null);" id="look_hot_keyword"><b>热点关键词</b></a> <a class="btn_super"
+                                href="search.html" target="_blank"><b>高级搜索</b></a> <a class="btn_search" id="btn_search"
+                                    href="javascript:void(null);"></a></li>
+                </ul>
+                <!--- 简单搜索结束 --->
+                <div class="clear">
+                </div>
+                <span class="search_line_1"></span><span class="search_line_2"></span>
+            </div>
+            <!----------//　搜索结束　//---------->
+        </div>
+    </div>
+    <!-------------------------　中　部　开　始　------------------------->
+    <div class="main">
+        <div class="wraper">
+            <!----------//　推荐专题开始　//---------->
+            <!--<div class="subcontent skin_2 left">
+      <h1><b class="color_1">最热专题</b></h1>
+            
+      <ul class="news_list" id="hot_event_list">
+        
+        
+      </ul>      
+      <div style=" display:none;" id="hot_event_pager"></div>  
+    </div>-->
+            <!----------//　全部专题结束　//---------->
+            <!----------//　专题列表开始　//---------->
+            <div class="content list">
+                <div class="title">
+                    <div class="subform_mark" id="subform_mark_layer" style="display: none;">
+                    </div>
+                    <div class="subform subform1" id="sjlx_list" style="padding-left: 271px; display: none;">
+                        <ul>
+                            <li><a href="javascript:void(null);" v="发生日期" filed="OccurrenceTime">发生日期</a></li>
+                            <li><a href="javascript:void(null);" v="发布日期" filed="PublishTime">发布日期</a></li>
+                            <li><a href="javascript:void(null);" v="发布日期" filed="PublishTime"></a></li>
+                        </ul>
+                    </div>
+                    <!-- 弹出层：监管部门 -->
+                    <div class="subform subform1" id="jgbm_list" style="padding-left: 605px; display: none;">
+                        <ul>
+                            <li><a href="javascript:void(null);" v="所有部门">所有部门</a></li>
+                            <li><a href="javascript:void(null);" v="安监">安监</a></li>
+                            <li><a href="javascript:void(null);" v="煤监">煤监</a></li>
+                        </ul>
+                    </div>
+                    <!-- 弹出层：事故类型 -->
+                    <div class="subform subform3" id="sglx_list" style="padding-left: 717px; width: auto;
+                        display: none;">
+                        <ul>
+                            <li><a href="javascript:void(null);" v="所有事故">所有事故</a></li>
+                            <li><a href="javascript:void(null);" v="一般">一般</a></li>
+                            <li><a href="javascript:void(null);" v="较大">较大</a></li>
+                            <li><a href="javascript:void(null);" v="特大">特大</a></li>
+                            <li><a href="javascript:void(null);" v="重大">重大</a></li>
+                        </ul>
+                    </div>
+                    <!-- 弹出层：所在地域 -->
+                    <div class="subform subform2" id="dy_list" style="padding-left: 623px; display: none;">
+                        <ul>
+                            <li><a href="javascript:void(null);">北京市</a></li>
+                        </ul>
+                    </div>
+                    <a class="title_text color_7" href="javascript:void(null);"></a><b class="title_text">
+                        报告列表</b>
+                    <ul class="form_list">
+                        <li><span class="input">
+                            <input type="text" onfocus="" id="search_time_txt" value="发布日期">
+                            <input type="text" id="start_time" onfocus="WdatePicker({isShowClear:false,readOnly:true,dateFmt:'yyyy-MM-dd',onpicked:AccidentReportList.ChangeTime})" />-
+                            <input type="text" id="end_time" onfocus="WdatePicker({isShowClear:false,readOnly:true,dateFmt:'yyyy-MM-dd',onpicked:AccidentReportList.ChangeTime})" />
+                        </span><span class="input"><code></code><span class="input">
+                            <input type="text" onfocus="" id="search_jgjc_txt" value="所有部门"></span> <span class="input">
+                                <input type="text" onfocus="" id="search_sglx_txt" value="所有事故"></span> <span class="input">
+                                    <input type="text" onfocus="" id="search_dy_txt" value="所有省份"></span></span>
+                        </li>
+                    </ul>
+                </div>
+                <ul class="order_tab">
+                    <span class="left">
+                        <input id="ck_list" name="" type="checkbox" value="" />
+                        <code>已选：<b class="color_2" id="checknumber">0</b></code> <a class="btn" id="export_btn"
+                            href="javascript:void(0);">全部导出</a> </span>
+                </ul>
+                <ul class="set_tab" id="orderTabUl">
+                    <li class="id">排列方式：</li>
+                    <li class="tab_on" name="sort_search_type" pid="PublishTime DESC">发布日期<b>↓</b></li>
+                    <li class="tab_off" name="sort_search_type" pid="OccurrenceTime DESC">发生日期<b>↓</b></li>
+                    <!--<li class="tab_off" name="sort_search_type" pid="CreateTime DESC">公布日期<b>↓</b></li>-->
+                    <li class="tab_off" name="sort_search_type" pid="Department">发布地域<b>↓</b></li>
+                </ul>
+                <div class="clear">
+                </div>
+                <div>
+                    <div id="result_list" style="float: left; width: 100%;">
+                    </div>
+                    <div style="float: left; width: 20%; display: none;" id="info_frame">
+                        <div class="menu">
+                            <ul>
+                                <li class="tab_on"><a href="#"><b>重要人物</b></a>
+                                    <div class="submenu">
+                                        <ul id="leader_info">
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="tab_on"><a href="#"><b>关注机构</b></a>
+                                    <div class="submenu">
+                                        <ul id="org_info">
+                                            <li><a pid="I53OOTHP8NJH-2705" queryrule="%22%u4E2D%u7EAA%u59D4%22+OR+%22%u7EAA%u59D4%22+OR+%22%u7EAA%u5F8B%u68C0%u67E5%u59D4%u5458%u4F1A%22+OR+%22%u7EAA%u68C0%22"
+                                                href="javascript:void(null);"><b>纪检系统<span class="color_5">（<code>7</code>）</span></b></a></li><li>
+                                                    <a pid="I53OOTHP8NJH-2705" queryrule="%22%u53CD%u8D2A%u5C40%22+OR+%22%u53CD%u8D2A%22"
+                                                        href="javascript:void(null);"><b>反贪局<span class="color_5">（<code>16</code>）</span></b></a></li><li>
+                                                            <a pid="I53OOTHP8NJH-2705" queryrule="%22%u76D1%u5BDF%u90E8%22+OR+%u76D1%u5BDF" href="javascript:void(null);">
+                                                                <b>监察系统<span class="color_5">（<code>6</code>）</span></b></a></li><li><a pid="I53OOTHP8NJH-2705"
+                                                                    queryrule="%22%u516C%u5B89%u5C40%22+OR+%u516C%u5B89+OR+%22%u516C%u5B89%u90E8%22+OR+%22%u6D3E%u51FA%u6240%22+OR+%u8B66%u5BDF+OR+%u4EA4%u8B66+OR+%u6C11%u8B66+OR+%22%u8B66%u65B9%22"
+                                                                    href="javascript:void(null);"><b>公安系统<span class="color_5">（<code>222</code>）</span></b></a></li></ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear">
+                </div>
+                <div class="order" style="text-align: left; min-height: 300px; border-top-style: '';
+                    border-top-width: 0px;">
+                    <!--class="news_list"-->
+                    <ul class="news_list" id="SearchResult">
+                        <!--- {数据绑定}开始 --->
+                        <!--<li><span class="form"><span class="text"><a aid="65" title="北京市工伤及职业危害预防中心关于办公地点搬迁的通告[2013-05-03]"
+                            class="" href="http://www.bjsafety.gov.cn//announcement/2c9a8edb3e65f9ea013e680b1e7d001f.html"
+                            target="_blank">北京市工伤及职业危害预防中心关于办公地点搬迁的通告[2013-05-03]</a></span> <code>发布时间：2014/1/23
+                                北京安监局</code></span></li>-->
+                        <!--- {数据绑定}结束 --->
+                    </ul>
+                    <div class="clear">
+                    </div>
+                </div>
+                <div class="page" id="PagerList">
+                </div>
+            </div>
+            <!----------//　专题列表结束　//---------->
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <!-------------------------　中　部　结　束　------------------------->
+    <div class="footer">
+        <div class="wraper">
+            <!----------//　版权信息开始　//---------->
+            <div class="copyright" id="footer_info">
+            </div>
+            <!----------//　版权信息结束　//---------->
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <!-------------------------　底　部　结　束　------------------------->
+</body>
+</html>

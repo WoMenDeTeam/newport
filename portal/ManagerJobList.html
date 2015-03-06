@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>热点分布</title>    
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    
+    <script type="text/javascript" src="js/jquery.js"></script>    
+    <script type="text/javascript" src="js/common.js"></script>    
+    <script type="text/javascript" src="js/joblist.js"></script>    
+
+</head>
+<body>
+    <div class="main">
+        <div class="wraper">            
+            <div class="menu left" style="height: 500px;">
+            </div>
+            <!----------//　分析图表开始　//---------->
+            <div class="content skin_2">
+                <h1>
+                    <b class="color_1">热点岛图</b><!--<a class="btn_select" href="#">热点岛图</a>--></h1>
+                <!--- 图形开始 --->
+                <table class="hotspotMapOption">
+                    <tr>
+                        <th>
+                            安监要闻聚类热点图：
+                        </th>
+                        <th class="ta_center">
+                            <select id="job_list">
+                                <!--<option value="zhjwJob2_clusters">新闻热点图</option>-->
+                            </select>
+                        </th>
+                        <th class="ta_right">
+                            <select id="input_data">
+                            </select>
+                        </th>
+                    </tr>
+                </table>
+                <div class="map left" id="map_safety" style="position: relative; clear: both; z-index: 100;
+                    overflow: visible;">
+                    <img id="HotImg" alt="热点岛图" width="360" height="360" src="#" />
+                    <p style="text-align: center">
+                        <a id="hot_image_safety" href="#"></a>
+                    </p>
+                    <div id="mapData" style="z-index: 80; overflow: visible;">
+                    </div>
+                </div>
+                <!--- 图形结束 --->
+                <div class="publicFeelSearchContent">
+                    <ul id="whats_hot" class="news_list left">
+                    </ul>
+                </div>
+            </div>  
+            <!----------//　分析图表结束　//---------->
+            <div class="clear"></div>
+            
+        </div>
+    </div>
+</body>
+</html>

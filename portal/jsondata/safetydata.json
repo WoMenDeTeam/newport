@@ -1,0 +1,70 @@
+﻿{
+    "week1": {
+		"title":"第一周",
+        "data": [
+            6,
+            7,
+            {
+				"y": 26.5,
+                "marker": {
+                    "symbol": "url(images/09.jpg)"
+                }
+            },
+            9.5,
+            {
+				"y": 14,
+                "marker": {
+                    "symbol": "url(images/09.jpg)"
+                }
+            },
+            18.2,
+            21.5
+        ],
+        "context": [
+            {
+                "title": "5月2日 湖南凤凰吊桥侧翻事故，乡村游景点被叫停。 ",
+                "url": "www.baidu.com",
+				"tag":""
+            },
+			{
+                "title": "5月6日 西安地铁施工塌方已致4人遇难，将启动事故调查。/甘肃永登水库坝体坍塌造成逾千人受灾。",
+                "url": "www.baidu.com",
+				"tag":""
+            }
+        ]
+    },
+	"week2": {
+		"title":"第二周",
+        "data": [
+            30,
+            7,
+            {
+				"y": 26.5,
+                "marker": {
+                    "symbol": "url(images/09.jpg)"
+                }
+            },
+            9.5,
+            {
+				"y": 14,
+                "marker": {
+                    "symbol": "url(images/09.jpg)"
+                }
+            },
+            18.2,
+            21.5
+        ],
+        "context": [
+            {
+                "title": "5月2日 湖南凤凰吊桥侧翻事故，乡村游景点被叫停。 ",
+                "url": "www.baidu.com",
+				"tag":""
+            },
+			{
+                "title": "5月6日 西安地铁施工塌方已致4人遇难，将启动事故调查。/甘肃永登水库坝体坍塌造成逾千人受灾。",
+                "url": "www.baidu.com",
+				"tag":""
+            }
+        ]
+    }
+}
