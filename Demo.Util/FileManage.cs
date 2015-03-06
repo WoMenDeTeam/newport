@@ -8,24 +8,28 @@ namespace Demo.Util
 {
     public static class FileManage
     {
-        public static void DeleteFile(string path) {
-            if (File.Exists(path)) {
+        public static void DeleteFile(string path)
+        {
+            if (File.Exists(path))
+            {
                 File.Delete(path);
             }
 
         }
 
-        public static string ReadStr(string path) {            
+        public static string ReadStr(string path)
+        {
             if (File.Exists(path))
             {
-                using (StreamReader read = new StreamReader(path,Encoding.UTF8))
+                using (StreamReader read = new StreamReader(path, Encoding.UTF8))
                 {
                     string str = read.ReadToEnd();
                     return str;
                 }
-               
+
             }
-            else {
+            else
+            {
                 return "";
             }
         }
@@ -38,7 +42,7 @@ namespace Demo.Util
             }
         }
 
-        public static void EditFile(string path,string fileStr) {            
+        public static void EditFile(string path, string fileStr) {            
             if (File.Exists(path))
             {    
                 using (StreamWriter writer = new StreamWriter(path))
@@ -58,8 +62,7 @@ namespace Demo.Util
                     byte[] bytes = new UTF8Encoding(true).GetBytes(fileStr);
                     writer.Write(bytes, 0, bytes.Length);
                 }
-            }            
+            }
         }
-       
     }
 }
