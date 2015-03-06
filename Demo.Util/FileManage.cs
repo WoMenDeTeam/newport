@@ -12,6 +12,7 @@ namespace Demo.Util
             if (File.Exists(path)) {
                 File.Delete(path);
             }
+
         }
 
         public static string ReadStr(string path) {            
