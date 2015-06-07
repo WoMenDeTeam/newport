@@ -44,7 +44,8 @@ namespace Demo.BLL
             {
                 return list[0];
             }
-            else {
+            else
+            {
                 return null;
             }
         }
@@ -86,7 +87,8 @@ namespace Demo.BLL
             }
         }
 
-        public static int GetRowCount(string strWhere) {
+        public static int GetRowCount(string strWhere)
+        {
             return Dao.GetPagerRowsCount(strWhere);
         }
 
@@ -128,14 +130,18 @@ namespace Demo.BLL
             return jsonstr.ToString();
         }
 
-        public static Dictionary<string, string> GetCategoryColumnDict(string parentcatelist) {
+        public static Dictionary<string, string> GetCategoryColumnDict(string parentcatelist)
+        {
             DataTable dt = Dao.GetColumnAndCategoryDt(parentcatelist);
             Dictionary<string, string> dict = new Dictionary<string, string>();
-            if (dt != null && dt.Rows.Count > 0) {
-                foreach (DataRow row in dt.Rows) {
+            if (dt != null && dt.Rows.Count > 0)
+            {
+                foreach (DataRow row in dt.Rows)
+                {
                     string key = row["CATEGORYID"].ToString();
                     string columnid = row["ID"].ToString();
-                    if (!dict.ContainsKey(key)) {
+                    if (!dict.ContainsKey(key))
+                    {
                         dict.Add(key, columnid);
                     }
                 }

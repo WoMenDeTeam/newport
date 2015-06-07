@@ -28,3 +28,16 @@ D:\gooko\newport\Demo.DAL\bin\Debug\log4net.xml
 D:\gooko\newport\Demo.DAL\obj\Debug\Demo.DAL.csprojResolveAssemblyReference.cache
 D:\gooko\newport\Demo.DAL\obj\Debug\Demo.DAL.dll
 D:\gooko\newport\Demo.DAL\obj\Debug\Demo.DAL.pdb
+C:\Users\Administrator\Documents\GitHub\newport\Demo.DAL\bin\Debug\Demo.DAL.dll
+C:\Users\Administrator\Documents\GitHub\newport\Demo.DAL\bin\Debug\Demo.DAL.pdb
+C:\Users\Administrator\Documents\GitHub\newport\Demo.DAL\bin\Debug\Demo.Util.dll
+C:\Users\Administrator\Documents\GitHub\newport\Demo.DAL\bin\Debug\IdolACINet.dll
+C:\Users\Administrator\Documents\GitHub\newport\Demo.DAL\bin\Debug\log4net.dll
+C:\Users\Administrator\Documents\GitHub\newport\Demo.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Documents\GitHub\newport\Demo.DAL\bin\Debug\office.dll
+C:\Users\Administrator\Documents\GitHub\newport\Demo.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Documents\GitHub\newport\Demo.DAL\bin\Debug\Demo.Util.pdb
+C:\Users\Administrator\Documents\GitHub\newport\Demo.DAL\bin\Debug\log4net.xml
+C:\Users\Administrator\Documents\GitHub\newport\Demo.DAL\obj\Debug\Demo.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\newport\Demo.DAL\obj\Debug\Demo.DAL.dll
+C:\Users\Administrator\Documents\GitHub\newport\Demo.DAL\obj\Debug\Demo.DAL.pdb
