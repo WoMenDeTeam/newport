@@ -150,13 +150,13 @@ a:hover,
 
 /*----------//　Logo 开始　//----------*/
 .logo,
-.logo a { height:127px; width:348px; }
+.logo a { height:200px; width:348px; }
 .logo { float:left; }
 .logo a { display:block; }
 /*----------//　Logo 结束　//----------*/
 
 /*----------//　用户开始　//----------*/
-.user { background:url(../img/user_bg.gif) no-repeat right top; float:right; height:30px; margin:97px 0 0; *margin:98px 0 -1px; _margin:97px 3px -1px 0; *position:relative; }
+.user { background:url(../img/user_bg.gif) no-repeat right top; float:right; height:30px; margin:1px 0 0; *margin:170px 0 -1px; _margin:97px 3px -1px 0; *position:relative; }
 .user .user_info,
 .user a.btn_logout { display:block; float:right; line-height:28px; padding:2px 0 0; text-align:center; }
 .user .user_info { width:315px; }
