@@ -15,7 +15,8 @@ $(document).ready(function () {
 
 var _newindex = new Object;
 var NewIndex = _newindex.property = {
-    query_params: { "action": "categoryquery", "display_style": 6, "totalresults": "true",
+    query_params: {
+        "action": "categoryquery", "display_style": 6, "totalresults": "true",
         "summary": "context", "sort": "Date", "characters": "600"
     },
     ClustersList: { "society_clusters": "SAFEJOB_CLUSTERS" },
@@ -403,7 +404,8 @@ var NewIndex = _newindex.property = {
         }
     },
     Static: function () {
-        var tagdata = { "entity_1": { "tag": "安监总局", "count": "50", "cssClass": "color_0" },
+        var tagdata = {
+            "entity_1": { "tag": "安监总局", "count": "50", "cssClass": "color_0" },
             "entity_2": { "tag": "瓦斯爆炸", "count": "43", "cssClass": "color_0" },
             "entity_3": { "tag": "煤矿事故", "count": "42", "cssClass": "color_1" },
             "entity_4": { "tag": "交通事故", "count": "38", "cssClass": "color_3" },
@@ -459,37 +461,37 @@ var NewIndex = _newindex.property = {
             var content = [];
             var imghtml = [];
             //配置专题
-            $.ajax({
-                url: "xmldata/zhuanti.xml",
-                type: "GET",
-                contentType: "application/x-www-form-urlencoded",
-                dataType: "xml",
-                cache: false,
-                error: function () {
-                    _listOther();
-                },
-                success: function (xml) {
-                    $(xml).find("data zhuanti").each(function (a, b) {
-                        var status = $(b).find("status").text();
-                        var url = $(b).find("url").text();
-                        var title = $(b).find("title").text();
-                        var imgurl = $(b).find("imgurl").text();
-                        var data = $(b).find("data").text();
-                        if (status == 1) {
-                            if (count == 1)
-                                imghtml.push("<a  href=\"" + url + "\" title=\"" + title + "\" target=\"_blank\">");
-                            else
-                                imghtml.push("<a style=\"display:none;  href=\"" + url + "\" title=\"" + title + "\" target=\"_blank\">");
-                            imghtml.push("<img  src=\"" + imgurl + "\" /></a>");
-                            //$("#special_category_image").empty().html(imghtml.join(""));
-                            content.push("<li><a href=\"" + url + "\" title=\"" + title + "\" target=\"_blank\"><span class=\"num\">" + count + "</span><span class=\"text\">" + title + "</span><span class=\"date\">" + data + "</span></a></li>");
-                            count++;
-                        }
+            //$.ajax({
+            //    url: "xmldata/zhuanti.xml",
+            //    type: "GET",
+            //    contentType: "application/x-www-form-urlencoded",
+            //    dataType: "xml",
+            //    cache: false,
+            //    error: function () {
+            //        _listOther();
+            //    },
+            //    success: function (xml) {
+            //        $(xml).find("data zhuanti").each(function (a, b) {
+            //            var status = $(b).find("status").text();
+            //            var url = $(b).find("url").text();
+            //            var title = $(b).find("title").text();
+            //            var imgurl = $(b).find("imgurl").text();
+            //            var data = $(b).find("data").text();
+            //            if (status == 1) {
+            //                if (count == 1)
+            //                    imghtml.push("<a  href=\"" + url + "\" title=\"" + title + "\" target=\"_blank\">");
+            //                else
+            //                    imghtml.push("<a style=\"display:none;  href=\"" + url + "\" title=\"" + title + "\" target=\"_blank\">");
+            //                imghtml.push("<img  src=\"" + imgurl + "\" /></a>");
+            //                //$("#special_category_image").empty().html(imghtml.join(""));
+            //                content.push("<li><a href=\"" + url + "\" title=\"" + title + "\" target=\"_blank\"><span class=\"num\">" + count + "</span><span class=\"text\">" + title + "</span><span class=\"date\">" + data + "</span></a></li>");
+            //                count++;
+            //            }
                         _listOther();
-                    });
+            //        });
 
-                }
-            });
+            //    }
+            //});
 
             function _listOther() {
                 for (var item in entitylist) {
@@ -527,7 +529,8 @@ var NewIndex = _newindex.property = {
     },
     InitVideo: function () {
         var pageInitParameter = { "page_size": 10, "result_id": "list_body_div", "status_bar_id": "pagebar", "post_url": "../Handler/Search.ashx" };
-        var videoIdolParameter = { "display_style": 9, "act": "weiboVideoCountent", "action": "query",
+        var videoIdolParameter = {
+            "display_style": 9, "act": "weiboVideoCountent", "action": "query",
             "characters": "300", "mindate": "", "maxdate": "",
             "database": Config.VideoDatabase,
             "totalresults": "True",
@@ -685,7 +688,8 @@ var NewIndex = _newindex.property = {
     InnitBlogBbsHot: function () {
         var itemlist = { "point_blog_frame": "MATCH{blog}:C1", "point_bbs_frame": "MATCH{bbs}:C1" };
         var columnlist = { "point_blog_frame": "140", "point_bbs_frame": "141" };
-        var query_params = { "action": "query", "display_style": 6, "totalresults": "true",
+        var query_params = {
+            "action": "query", "display_style": 6, "totalresults": "true",
             "summary": "context", "sort": "Date", "characters": "600", "text": Config.FilterKeyWords, "printfields": "DRETITLE,MYSITENAME,DREDATE,DOMAINSITENAME,READNUM"
         };
         var innitdata = { "page_size": 10, "result_id": "", "status_bar_id": "dddd" };
